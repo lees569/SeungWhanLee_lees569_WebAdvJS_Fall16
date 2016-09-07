@@ -1,0 +1,59 @@
+<html>
+	
+	<head>
+		<title>Calculate Tip</title>
+
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+		 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+
+	</head>
+
+	<body>
+		<div id ="container">
+				<h1>Tip Calculator</h1>
+
+			<div id ="calculator">
+			<form>
+				<label>
+					
+				How much is your bill?<br>
+				<input type="text" id="billAmount"> <span></span><i class="em em-moneybag"></i>
+
+				</label>
+				<label>
+					How was your service?<br>
+					<select id ="serviceQuality">
+						<option disabled selected value="0">---- choose an option ----</option>
+						<option value="0.2">VISIT AGAIN AGAIN AGAIN! </option>
+						<option value="0.18">GOOD </option>
+						<option value="0.15">SO-SO </option>
+						<option value="0.1">BAD </option>
+						<option value="0.05">NEVER VISIT</option>
+
+					</select>
+
+				</label>
+
+				<label>
+					How many people are sharing the bill?<br>
+					<input type="text" id="totalPeople"><span></span>  <i class="em em-baby"></i> <i class="em em-baby"></i> <i class="em em-baby"></i>
+				</label>
+
+				<button type="button" id = "calculate"> TIP!</button>
+
+			</form>
+
+			</div>
+
+			<div id = "totalTip">
+				<sup>$</sup><span id = "tip">0.00</span>
+				<small id ="each">each</small>
+			</div>
+
+		</div>
+		<script type="text/javascript" src="script.js"></script>
+
+	</body>
+
+</html>
