@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8" />
+  <link rel="icon" type="image/png" href="star.png" sizes="16x16">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="p5.js"></script>
+    <script src="p5.sound.js"></script>
+	<script src = "jquery-1.11.3.js"></script>
+	<script src = "jquery-ui.js"></script>
+	<script src = "script.js"></script>
+	<script type = "text/javascript"></script>
+	 <script>
+  $(function() {
+    $( "#hiphop" ).draggable();
+    $( "#outline2" ).droppable({
+      drop: function( event, ui ) {
+        $( this )
+          .click( "hiphop" )
+            .load(audio);
+      }
+    });
+
+     $( "#punk" ).draggable();
+    $( "#outline2" ).droppable({
+      drop: function( event, ui ) {
+        $( this )
+          .click( "punk" )
+            .load(audio);
+      }
+    });
+
+
+     $( "#reggae" ).draggable();
+    $( "#outline2" ).droppable({
+      drop: function( event, ui ) {
+        $( this )
+          .click( "reggae" )
+            .load(audio);
+      }
+    });
+
+
+     $( "#electronic" ).draggable();
+    $( "#outline2" ).droppable({
+      drop: function( event, ui ) {
+        $( this )
+          .click( "electronic" )
+            .load(audio);
+      }
+    });
+
+  });
+  </script>
+
+  <title>Music Box</title>
+</head>
+<body>
+	
+ 
+
+<div id = "outline2" class = "circle"></div>
+
+<div id = "outside" class = "circle" ></div>
+<div id = "outline" class = "circle" ></div>
+<div id = "middleline" class = "circle" ></div>
+<div id = "inline" class = "circle" ></div>
+<div id = "inline2" class = "circle" ></div>
+<div id = "middle" class = "circle" ></div>
+<div id = "inside" class = "circle" ></div>
+<div id = "white" class = "circle" ></div>
+
+
+<div id="hiphop"   type="submit" > <img src= "hiphop.png"  width = "230px" height = "230px">
+  
+</div>
+
+<div id="punk"  type="submit" >  <img src= "punk.png"  width = "230px" height = "230px">
+  
+</div>
+
+<div id="reggae" type="submit" >  <img src= "reggae.png"  width = "230px" height = "230px">
+  
+</div>
+
+<div id="electronic"  type="submit" >  <img src= "electro.png"  width = "230px" height = "230px">
+  
+</div>
+
+	<div id = "here"><h1>DROP CLICK</h1></div>
+
+	
+<div id="button"  onClick="history.go(0)"> <img src= "star.png"  width = "50px" height = "50px">
+  
+</div>
+
+		<audio id="audio" autoplay>
+			<source src="" type="audio/mpeg"> 
+		</audio>
+</body>
+</html>
+
