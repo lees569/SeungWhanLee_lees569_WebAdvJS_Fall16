@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+
+	<title>MFADT Thesis 2016</title>
+	<link href="assets/css/styles.css" rel="stylesheet">
+	
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
+</head>
+
+<body onload = "getBooks()">
+	<div class="main-content">
+
+		<div class="all-students page">
+			<div class="filters">
+				<h1 class="ultra-big">THESIS ONE</h1>
+				<h5>2016.MFADT.HAN</h5>
+				<button class="abt">About</button>
+				<button class="ctc">Research</button>
+
+				
+
+			</div>
+
+			
+		</div>
+
+		<div class="about page">
+			<div class="overlay"></div>
+			<div class="container">
+				<h3>Project</h3>
+			<img src="./image/1.png" style="width:304px;height:228px;">
+			<img src="./image/2.jpg" style="width:304px;height:228px;">
+			<img src="./image/3.jpg" style="width:304px;height:228px;">
+			<img src="./image/4.jpg" style="width:304px;height:228px;">
+			<img src="./image/5.png" style="width:304px;height:228px;">
+			<img src="./image/6.png" style="width:304px;height:228px;">
+			<img src="./image/7.png" style="width:304px;height:228px;">
+			<img src="./image/8.jpg" style="width:304px;height:228px;">
+			<img src="./image/mmm.png" style="width:304px;height:228px;">
+				
+				
+				<!-- <p></p> -->
+				<span class="close">×</span>
+			</div>
+		</div>
+
+		<div class="research page">
+			<div class="overlay"></div>
+			<div class="container">
+
+
+
+				<!-- <h3>Hire us!</h3>
+				<p>blablabla</p> -->
+
+			<h3>RESEARCH</h3>
+			<form id = "add-book">
+				<div class = "form-group">
+					<label>Title</label><br>
+					<input type = "text" id = "title" class = "form-control">
+				</div>
+
+				<div class = "form-group">
+					<label>Category</label><br>
+					<input type = "text" id = "category" class = "form-control">
+				</div>
+
+				<div class = "form-group">
+					<label>Excerpt & Address</label><br>
+					<input type = "text" id = "excerpt" class = "form-control">
+				</div>
+
+				<input type = "submit" name= "submit" value ="Submit" class = "btn">
+			</form>
+			<hr />
+			<div class ="row">
+				<div id = "book"></div>
+			</div>
+
+
+
+
+				<span class="close">×</span>
+			</div>
+		</div>
+
+		<div class="error page">
+			<h3>Something went wrong and I'm not sure why.. :o</h3>
+			<span class="close">×</span>
+		</div>
+
+	</div>
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0/handlebars.min.js"></script>
+	<script src="assets/js/script.js"></script>
+
+</body>
+</html>
