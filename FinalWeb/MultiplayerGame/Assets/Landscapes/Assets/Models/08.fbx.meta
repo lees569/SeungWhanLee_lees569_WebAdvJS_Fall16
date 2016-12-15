@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: b762ac735ae4b0147ae546901676dce3
+timeCreated: 1469510846
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Branch 1
+    100004: Branch 1.001
+    100006: Branch 1.002
+    100008: Branch 2
+    100010: Branch 2.001
+    100012: Branch 2.002
+    100014: Branch 2.003
+    100016: Branch 2.004
+    100018: Branch 2.005
+    100020: Branch 3
+    100022: Branch 3.001
+    100024: Branch 3.002
+    100026: Branch 3.003
+    100028: Cube
+    100030: Cylinder
+    100032: Cylinder.000
+    100034: Cylinder.001
+    100036: Cylinder.002
+    100038: Hut 1
+    100040: Hut 1.001
+    100042: Hut 2
+    100044: Icosphere
+    100046: Icosphere.001
+    100048: Icosphere.002
+    100050: Icosphere.003
+    100052: Icosphere.004
+    100054: Icosphere.005
+    100056: Icosphere.006
+    100058: Icosphere.007
+    100060: Icosphere.008
+    100062: Icosphere.009
+    100064: Icosphere.010
+    100066: Icosphere.011
+    100068: Icosphere.012
+    100070: Icosphere.013
+    100072: Icosphere.014
+    100074: Icosphere.015
+    100076: Icosphere.016
+    100078: Icosphere.017
+    100080: Icosphere.018
+    100082: Icosphere.019
+    100084: Icosphere.020
+    100086: Icosphere.021
+    100088: Icosphere.022
+    100090: Icosphere.023
+    100092: Icosphere.024
+    100094: Icosphere.025
+    100096: Icosphere.026
+    100098: Icosphere.027
+    100100: Icosphere.028
+    100102: Icosphere.029
+    100104: Icosphere.030
+    100106: Icosphere.031
+    100108: Icosphere.032
+    100110: Icosphere.033
+    100112: Icosphere.034
+    100114: Icosphere.035
+    100116: Icosphere.036
+    100118: Icosphere.037
+    100120: Icosphere.038
+    100122: Icosphere.039
+    100124: Icosphere.040
+    100126: Icosphere.041
+    100128: Icosphere.042
+    100130: Icosphere.043
+    100132: Icosphere.044
+    100134: Icosphere.045
+    100136: Icosphere.046
+    100138: Icosphere.047
+    100140: Plane
+    100142: Plane.002
+    400000: //RootNode
+    400002: Branch 1
+    400004: Branch 1.001
+    400006: Branch 1.002
+    400008: Branch 2
+    400010: Branch 2.001
+    400012: Branch 2.002
+    400014: Branch 2.003
+    400016: Branch 2.004
+    400018: Branch 2.005
+    400020: Branch 3
+    400022: Branch 3.001
+    400024: Branch 3.002
+    400026: Branch 3.003
+    400028: Cube
+    400030: Cylinder
+    400032: Cylinder.000
+    400034: Cylinder.001
+    400036: Cylinder.002
+    400038: Hut 1
+    400040: Hut 1.001
+    400042: Hut 2
+    400044: Icosphere
+    400046: Icosphere.001
+    400048: Icosphere.002
+    400050: Icosphere.003
+    400052: Icosphere.004
+    400054: Icosphere.005
+    400056: Icosphere.006
+    400058: Icosphere.007
+    400060: Icosphere.008
+    400062: Icosphere.009
+    400064: Icosphere.010
+    400066: Icosphere.011
+    400068: Icosphere.012
+    400070: Icosphere.013
+    400072: Icosphere.014
+    400074: Icosphere.015
+    400076: Icosphere.016
+    400078: Icosphere.017
+    400080: Icosphere.018
+    400082: Icosphere.019
+    400084: Icosphere.020
+    400086: Icosphere.021
+    400088: Icosphere.022
+    400090: Icosphere.023
+    400092: Icosphere.024
+    400094: Icosphere.025
+    400096: Icosphere.026
+    400098: Icosphere.027
+    400100: Icosphere.028
+    400102: Icosphere.029
+    400104: Icosphere.030
+    400106: Icosphere.031
+    400108: Icosphere.032
+    400110: Icosphere.033
+    400112: Icosphere.034
+    400114: Icosphere.035
+    400116: Icosphere.036
+    400118: Icosphere.037
+    400120: Icosphere.038
+    400122: Icosphere.039
+    400124: Icosphere.040
+    400126: Icosphere.041
+    400128: Icosphere.042
+    400130: Icosphere.043
+    400132: Icosphere.044
+    400134: Icosphere.045
+    400136: Icosphere.046
+    400138: Icosphere.047
+    400140: Plane
+    400142: Plane.002
+    2300000: Branch 1
+    2300002: Branch 1.001
+    2300004: Branch 1.002
+    2300006: Branch 2
+    2300008: Branch 2.001
+    2300010: Branch 2.002
+    2300012: Branch 2.003
+    2300014: Branch 2.004
+    2300016: Branch 2.005
+    2300018: Branch 3
+    2300020: Branch 3.001
+    2300022: Branch 3.002
+    2300024: Branch 3.003
+    2300026: Cube
+    2300028: Cylinder
+    2300030: Cylinder.000
+    2300032: Cylinder.001
+    2300034: Cylinder.002
+    2300036: Hut 1
+    2300038: Hut 1.001
+    2300040: Hut 2
+    2300042: Icosphere
+    2300044: Icosphere.001
+    2300046: Icosphere.002
+    2300048: Icosphere.003
+    2300050: Icosphere.004
+    2300052: Icosphere.005
+    2300054: Icosphere.006
+    2300056: Icosphere.007
+    2300058: Icosphere.008
+    2300060: Icosphere.009
+    2300062: Icosphere.010
+    2300064: Icosphere.011
+    2300066: Icosphere.012
+    2300068: Icosphere.013
+    2300070: Icosphere.014
+    2300072: Icosphere.015
+    2300074: Icosphere.016
+    2300076: Icosphere.017
+    2300078: Icosphere.018
+    2300080: Icosphere.019
+    2300082: Icosphere.020
+    2300084: Icosphere.021
+    2300086: Icosphere.022
+    2300088: Icosphere.023
+    2300090: Icosphere.024
+    2300092: Icosphere.025
+    2300094: Icosphere.026
+    2300096: Icosphere.027
+    2300098: Icosphere.028
+    2300100: Icosphere.029
+    2300102: Icosphere.030
+    2300104: Icosphere.031
+    2300106: Icosphere.032
+    2300108: Icosphere.033
+    2300110: Icosphere.034
+    2300112: Icosphere.035
+    2300114: Icosphere.036
+    2300116: Icosphere.037
+    2300118: Icosphere.038
+    2300120: Icosphere.039
+    2300122: Icosphere.040
+    2300124: Icosphere.041
+    2300126: Icosphere.042
+    2300128: Icosphere.043
+    2300130: Icosphere.044
+    2300132: Icosphere.045
+    2300134: Icosphere.046
+    2300136: Icosphere.047
+    2300138: Plane
+    2300140: Plane.002
+    3300000: Branch 1
+    3300002: Branch 1.001
+    3300004: Branch 1.002
+    3300006: Branch 2
+    3300008: Branch 2.001
+    3300010: Branch 2.002
+    3300012: Branch 2.003
+    3300014: Branch 2.004
+    3300016: Branch 2.005
+    3300018: Branch 3
+    3300020: Branch 3.001
+    3300022: Branch 3.002
+    3300024: Branch 3.003
+    3300026: Cube
+    3300028: Cylinder
+    3300030: Cylinder.000
+    3300032: Cylinder.001
+    3300034: Cylinder.002
+    3300036: Hut 1
+    3300038: Hut 1.001
+    3300040: Hut 2
+    3300042: Icosphere
+    3300044: Icosphere.001
+    3300046: Icosphere.002
+    3300048: Icosphere.003
+    3300050: Icosphere.004
+    3300052: Icosphere.005
+    3300054: Icosphere.006
+    3300056: Icosphere.007
+    3300058: Icosphere.008
+    3300060: Icosphere.009
+    3300062: Icosphere.010
+    3300064: Icosphere.011
+    3300066: Icosphere.012
+    3300068: Icosphere.013
+    3300070: Icosphere.014
+    3300072: Icosphere.015
+    3300074: Icosphere.016
+    3300076: Icosphere.017
+    3300078: Icosphere.018
+    3300080: Icosphere.019
+    3300082: Icosphere.020
+    3300084: Icosphere.021
+    3300086: Icosphere.022
+    3300088: Icosphere.023
+    3300090: Icosphere.024
+    3300092: Icosphere.025
+    3300094: Icosphere.026
+    3300096: Icosphere.027
+    3300098: Icosphere.028
+    3300100: Icosphere.029
+    3300102: Icosphere.030
+    3300104: Icosphere.031
+    3300106: Icosphere.032
+    3300108: Icosphere.033
+    3300110: Icosphere.034
+    3300112: Icosphere.035
+    3300114: Icosphere.036
+    3300116: Icosphere.037
+    3300118: Icosphere.038
+    3300120: Icosphere.039
+    3300122: Icosphere.040
+    3300124: Icosphere.041
+    3300126: Icosphere.042
+    3300128: Icosphere.043
+    3300130: Icosphere.044
+    3300132: Icosphere.045
+    3300134: Icosphere.046
+    3300136: Icosphere.047
+    3300138: Plane
+    3300140: Plane.002
+    4300000: Hut 1.001
+    4300002: Cylinder.001
+    4300004: Cylinder.000
+    4300006: Cylinder.002
+    4300008: Cube
+    4300010: Branch 3.003
+    4300012: Branch 3.002
+    4300014: Branch 3.001
+    4300016: Branch 1.002
+    4300018: Branch 1.001
+    4300020: Branch 2.005
+    4300022: Branch 2.004
+    4300024: Branch 2.003
+    4300026: Branch 2.002
+    4300028: Branch 2.001
+    4300030: Icosphere.047
+    4300032: Icosphere.046
+    4300034: Icosphere.043
+    4300036: Icosphere.042
+    4300038: Icosphere.041
+    4300040: Branch 3
+    4300042: Branch 1
+    4300044: Cylinder
+    4300046: Branch 2
+    4300048: Icosphere.040
+    4300050: Icosphere.039
+    4300052: Icosphere.038
+    4300054: Icosphere.037
+    4300056: Icosphere.036
+    4300058: Icosphere.035
+    4300060: Icosphere.034
+    4300062: Icosphere.033
+    4300064: Icosphere.032
+    4300066: Icosphere.031
+    4300068: Icosphere.030
+    4300070: Icosphere.029
+    4300072: Icosphere.028
+    4300074: Icosphere.027
+    4300076: Icosphere.026
+    4300078: Icosphere.025
+    4300080: Icosphere.024
+    4300082: Icosphere.023
+    4300084: Icosphere.022
+    4300086: Icosphere.021
+    4300088: Icosphere.020
+    4300090: Icosphere.019
+    4300092: Icosphere.018
+    4300094: Icosphere.017
+    4300096: Icosphere.016
+    4300098: Plane.002
+    4300100: Hut 1
+    4300102: Hut 2
+    4300104: Icosphere.001
+    4300106: Plane
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

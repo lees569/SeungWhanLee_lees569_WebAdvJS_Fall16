@@ -1,0 +1,3133 @@
+fileFormatVersion: 2
+guid: 86a566c9fac866c45891d1924f94a076
+timeCreated: 1469510601
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cylinder
+    100004: Cylinder.001
+    100006: Cylinder.002
+    100008: Cylinder.003
+    100010: Cylinder.004
+    100012: Cylinder.005
+    100014: Cylinder.006
+    100016: Cylinder.007
+    100018: Cylinder.008
+    100020: Cylinder.009
+    100022: Cylinder.010
+    100024: Cylinder.011
+    100026: Cylinder.012
+    100028: Cylinder.013
+    100030: Cylinder.014
+    100032: Cylinder.015
+    100034: Cylinder.016
+    100036: Cylinder.017
+    100038: Cylinder.018
+    100040: Cylinder.019
+    100042: Cylinder.020
+    100044: Cylinder.021
+    100046: Cylinder.022
+    100048: Cylinder.023
+    100050: Cylinder.024
+    100052: Cylinder.025
+    100054: Cylinder.026
+    100056: Cylinder.027
+    100058: Cylinder.028
+    100060: Cylinder.029
+    100062: Cylinder.030
+    100064: Cylinder.031
+    100066: Cylinder.032
+    100068: Cylinder.033
+    100070: Cylinder.034
+    100072: Cylinder.035
+    100074: Cylinder.036
+    100076: Cylinder.037
+    100078: Cylinder.038
+    100080: Cylinder.039
+    100082: Cylinder.040
+    100084: Cylinder.041
+    100086: Cylinder.042
+    100088: Cylinder.043
+    100090: Cylinder.044
+    100092: Cylinder.045
+    100094: Cylinder.046
+    100096: Cylinder.047
+    100098: Cylinder.048
+    100100: Cylinder.049
+    100102: Cylinder.050
+    100104: Cylinder.051
+    100106: Cylinder.052
+    100108: Cylinder.053
+    100110: Cylinder.054
+    100112: Cylinder.055
+    100114: Cylinder.056
+    100116: Cylinder.057
+    100118: Cylinder.058
+    100120: Cylinder.059
+    100122: Cylinder.060
+    100124: Cylinder.061
+    100126: Cylinder.062
+    100128: Cylinder.063
+    100130: Cylinder.064
+    100132: Cylinder.065
+    100134: Cylinder.066
+    100136: Cylinder.067
+    100138: Cylinder.068
+    100140: Cylinder.069
+    100142: Cylinder.070
+    100144: Cylinder.071
+    100146: Cylinder.072
+    100148: Cylinder.073
+    100150: Cylinder.074
+    100152: Cylinder.075
+    100154: Cylinder.076
+    100156: Cylinder.077
+    100158: Cylinder.078
+    100160: Cylinder.079
+    100162: Cylinder.080
+    100164: Cylinder.081
+    100166: Cylinder.082
+    100168: Cylinder.083
+    100170: Cylinder.084
+    100172: Cylinder.085
+    100174: Cylinder.086
+    100176: Cylinder.087
+    100178: Cylinder.088
+    100180: Cylinder.089
+    100182: Cylinder.090
+    100184: Cylinder.091
+    100186: Cylinder.092
+    100188: Cylinder.093
+    100190: Cylinder.094
+    100192: Cylinder.095
+    100194: Cylinder.096
+    100196: Cylinder.097
+    100198: Cylinder.098
+    100200: Cylinder.099
+    100202: Cylinder.100
+    100204: Cylinder.101
+    100206: Cylinder.102
+    100208: Cylinder.103
+    100210: Cylinder.104
+    100212: Cylinder.105
+    100214: Cylinder.106
+    100216: Cylinder.107
+    100218: Cylinder.108
+    100220: Cylinder.109
+    100222: Cylinder.110
+    100224: Cylinder.111
+    100226: Cylinder.112
+    100228: Cylinder.113
+    100230: Cylinder.114
+    100232: Cylinder.115
+    100234: Cylinder.116
+    100236: Cylinder.117
+    100238: Cylinder.118
+    100240: Cylinder.119
+    100242: Cylinder.120
+    100244: Cylinder.121
+    100246: Cylinder.122
+    100248: Cylinder.123
+    100250: Cylinder.124
+    100252: Cylinder.125
+    100254: Cylinder.126
+    100256: Cylinder.127
+    100258: Cylinder.128
+    100260: Cylinder.129
+    100262: Cylinder.130
+    100264: Cylinder.131
+    100266: Cylinder.132
+    100268: Cylinder.133
+    100270: Cylinder.134
+    100272: Cylinder.135
+    100274: Cylinder.136
+    100276: Cylinder.137
+    100278: Cylinder.138
+    100280: Cylinder.139
+    100282: Cylinder.140
+    100284: Cylinder.141
+    100286: Cylinder.142
+    100288: Cylinder.143
+    100290: Cylinder.144
+    100292: Cylinder.145
+    100294: Cylinder.146
+    100296: Cylinder.147
+    100298: Cylinder.148
+    100300: Cylinder.149
+    100302: Cylinder.150
+    100304: Cylinder.151
+    100306: Cylinder.152
+    100308: Cylinder.153
+    100310: Cylinder.154
+    100312: Cylinder.155
+    100314: Cylinder.156
+    100316: Cylinder.157
+    100318: Cylinder.158
+    100320: Cylinder.159
+    100322: Cylinder.160
+    100324: Cylinder.161
+    100326: Cylinder.162
+    100328: Cylinder.163
+    100330: Cylinder.164
+    100332: Cylinder.165
+    100334: Cylinder.166
+    100336: Cylinder.167
+    100338: Cylinder.168
+    100340: Cylinder.169
+    100342: Cylinder.170
+    100344: Cylinder.171
+    100346: Cylinder.172
+    100348: Cylinder.173
+    100350: Cylinder.174
+    100352: Cylinder.175
+    100354: Desert LandScape
+    100356: Icosphere.000
+    100358: Icosphere.001
+    100360: Icosphere.002
+    100362: Icosphere.003
+    100364: Icosphere.004
+    100366: Icosphere.005
+    100368: Icosphere.006
+    100370: Icosphere.007
+    100372: Icosphere.008
+    100374: Icosphere.009
+    100376: Icosphere.010
+    100378: Icosphere.011
+    100380: Icosphere.012
+    100382: Icosphere.013
+    100384: Icosphere.014
+    100386: Icosphere.015
+    100388: Icosphere.016
+    100390: Icosphere.017
+    100392: Icosphere.018
+    100394: Icosphere.019
+    100396: Icosphere.020
+    100398: Icosphere.021
+    100400: Icosphere.022
+    100402: Icosphere.023
+    100404: Icosphere.024
+    100406: Icosphere.025
+    100408: Icosphere.026
+    100410: Icosphere.027
+    100412: Icosphere.028
+    100414: Icosphere.029
+    100416: Icosphere.030
+    100418: Icosphere.031
+    100420: Icosphere.032
+    100422: Icosphere.033
+    100424: Icosphere.034
+    100426: Icosphere.035
+    100428: Icosphere.036
+    100430: Icosphere.037
+    100432: Icosphere.038
+    100434: Icosphere.039
+    100436: Icosphere.040
+    100438: Icosphere.041
+    100440: Icosphere.042
+    100442: Icosphere.043
+    100444: Icosphere.044
+    100446: Icosphere.045
+    100448: Icosphere.046
+    100450: Icosphere.047
+    100452: Icosphere.048
+    100454: Icosphere.049
+    100456: Icosphere.050
+    100458: Icosphere.051
+    100460: Icosphere.052
+    100462: Icosphere.053
+    100464: Icosphere.054
+    100466: Icosphere.055
+    100468: Icosphere.056
+    100470: Icosphere.057
+    100472: Icosphere.058
+    100474: Icosphere.059
+    100476: Icosphere.060
+    100478: Icosphere.061
+    100480: Icosphere.062
+    100482: Icosphere.063
+    100484: Icosphere.064
+    100486: Icosphere.065
+    100488: Icosphere.066
+    100490: Icosphere.067
+    100492: Icosphere.068
+    100494: Icosphere.069
+    100496: Icosphere.070
+    100498: Icosphere.071
+    100500: Icosphere.072
+    100502: Icosphere.073
+    100504: Icosphere.074
+    100506: Icosphere.075
+    100508: Icosphere.076
+    100510: Icosphere.077
+    100512: Icosphere.078
+    100514: Icosphere.079
+    100516: Icosphere.080
+    100518: Icosphere.081
+    100520: Icosphere.082
+    100522: Icosphere.083
+    100524: Icosphere.084
+    100526: Icosphere.085
+    100528: Icosphere.086
+    100530: Icosphere.087
+    100532: Icosphere.088
+    100534: Icosphere.089
+    100536: Icosphere.090
+    100538: Icosphere.091
+    100540: Icosphere.092
+    100542: Icosphere.093
+    100544: Icosphere.094
+    100546: Icosphere.095
+    100548: Icosphere.096
+    100550: Icosphere.097
+    100552: Icosphere.098
+    100554: Icosphere.099
+    100556: Icosphere.100
+    100558: Icosphere.101
+    100560: Icosphere.102
+    100562: Icosphere.103
+    100564: Icosphere.104
+    100566: Icosphere.105
+    100568: Icosphere.106
+    100570: Icosphere.107
+    100572: Icosphere.108
+    100574: Icosphere.109
+    100576: Icosphere.110
+    100578: Icosphere.111
+    100580: Icosphere.112
+    100582: Icosphere.113
+    100584: Icosphere.114
+    100586: Icosphere.115
+    100588: Icosphere.116
+    100590: Icosphere.117
+    100592: Icosphere.118
+    100594: Icosphere.119
+    100596: Icosphere.120
+    100598: Icosphere.121
+    100600: Icosphere.122
+    100602: Icosphere.123
+    100604: Icosphere.124
+    100606: Icosphere.125
+    100608: Icosphere.126
+    100610: Icosphere.127
+    100612: Icosphere.128
+    100614: Icosphere.129
+    100616: Icosphere.130
+    100618: Icosphere.131
+    100620: Icosphere.132
+    100622: Icosphere.133
+    100624: Icosphere.134
+    100626: Icosphere.135
+    100628: Icosphere.136
+    100630: Icosphere.137
+    100632: Icosphere.138
+    100634: Icosphere.139
+    100636: Icosphere.140
+    100638: Icosphere.141
+    100640: Icosphere.142
+    100642: Icosphere.143
+    100644: Icosphere.144
+    100646: Icosphere.145
+    100648: Icosphere.146
+    100650: Icosphere.147
+    100652: Icosphere.148
+    100654: Icosphere.149
+    100656: Icosphere.150
+    100658: Icosphere.151
+    100660: Icosphere.152
+    100662: Icosphere.153
+    100664: Icosphere.154
+    100666: Icosphere.155
+    100668: Icosphere.156
+    100670: Icosphere.157
+    100672: Icosphere.158
+    100674: Icosphere.159
+    100676: Icosphere.160
+    100678: Icosphere.161
+    100680: Icosphere.162
+    100682: Icosphere.163
+    100684: Icosphere.164
+    100686: Icosphere.165
+    100688: Icosphere.166
+    100690: Icosphere.167
+    100692: Icosphere.168
+    100694: Icosphere.169
+    100696: Icosphere.170
+    100698: Icosphere.171
+    100700: Icosphere.172
+    100702: Icosphere.173
+    100704: Icosphere.174
+    100706: Icosphere.175
+    100708: Icosphere.176
+    100710: Icosphere.177
+    100712: Icosphere.178
+    100714: Icosphere.179
+    100716: Icosphere.180
+    100718: Icosphere.181
+    100720: Icosphere.182
+    100722: Icosphere.183
+    100724: Icosphere.184
+    100726: Icosphere.185
+    100728: Icosphere.186
+    100730: Icosphere.187
+    100732: Icosphere.188
+    100734: Icosphere.189
+    100736: Icosphere.190
+    100738: Icosphere.191
+    100740: Icosphere.192
+    100742: Icosphere.193
+    100744: Icosphere.194
+    100746: Icosphere.195
+    100748: Icosphere.196
+    100750: Icosphere.197
+    100752: Icosphere.198
+    100754: Icosphere.199
+    100756: Icosphere.200
+    100758: Icosphere.201
+    100760: Icosphere.202
+    100762: Icosphere.203
+    100764: Icosphere.204
+    100766: Icosphere.205
+    100768: Snow land
+    100770: Snow land.001
+    100772: Snow land.001|Cylinder|Dupli|0.0
+    100774: Snow land.001|Cylinder|Dupli|1.0
+    100776: Snow land.001|Cylinder|Dupli|10.0
+    100778: Snow land.001|Cylinder|Dupli|100.0
+    100780: Snow land.001|Cylinder|Dupli|101.0
+    100782: Snow land.001|Cylinder|Dupli|102.0
+    100784: Snow land.001|Cylinder|Dupli|103.0
+    100786: Snow land.001|Cylinder|Dupli|104.0
+    100788: Snow land.001|Cylinder|Dupli|105.0
+    100790: Snow land.001|Cylinder|Dupli|106.0
+    100792: Snow land.001|Cylinder|Dupli|107.0
+    100794: Snow land.001|Cylinder|Dupli|108.0
+    100796: Snow land.001|Cylinder|Dupli|109.0
+    100798: Snow land.001|Cylinder|Dupli|11.0
+    100800: Snow land.001|Cylinder|Dupli|110.0
+    100802: Snow land.001|Cylinder|Dupli|111.0
+    100804: Snow land.001|Cylinder|Dupli|112.0
+    100806: Snow land.001|Cylinder|Dupli|113.0
+    100808: Snow land.001|Cylinder|Dupli|114.0
+    100810: Snow land.001|Cylinder|Dupli|115.0
+    100812: Snow land.001|Cylinder|Dupli|116.0
+    100814: Snow land.001|Cylinder|Dupli|117.0
+    100816: Snow land.001|Cylinder|Dupli|118.0
+    100818: Snow land.001|Cylinder|Dupli|119.0
+    100820: Snow land.001|Cylinder|Dupli|12.0
+    100822: Snow land.001|Cylinder|Dupli|120.0
+    100824: Snow land.001|Cylinder|Dupli|121.0
+    100826: Snow land.001|Cylinder|Dupli|122.0
+    100828: Snow land.001|Cylinder|Dupli|123.0
+    100830: Snow land.001|Cylinder|Dupli|124.0
+    100832: Snow land.001|Cylinder|Dupli|125.0
+    100834: Snow land.001|Cylinder|Dupli|126.0
+    100836: Snow land.001|Cylinder|Dupli|127.0
+    100838: Snow land.001|Cylinder|Dupli|128.0
+    100840: Snow land.001|Cylinder|Dupli|129.0
+    100842: Snow land.001|Cylinder|Dupli|13.0
+    100844: Snow land.001|Cylinder|Dupli|130.0
+    100846: Snow land.001|Cylinder|Dupli|131.0
+    100848: Snow land.001|Cylinder|Dupli|132.0
+    100850: Snow land.001|Cylinder|Dupli|133.0
+    100852: Snow land.001|Cylinder|Dupli|134.0
+    100854: Snow land.001|Cylinder|Dupli|135.0
+    100856: Snow land.001|Cylinder|Dupli|136.0
+    100858: Snow land.001|Cylinder|Dupli|137.0
+    100860: Snow land.001|Cylinder|Dupli|138.0
+    100862: Snow land.001|Cylinder|Dupli|139.0
+    100864: Snow land.001|Cylinder|Dupli|14.0
+    100866: Snow land.001|Cylinder|Dupli|140.0
+    100868: Snow land.001|Cylinder|Dupli|141.0
+    100870: Snow land.001|Cylinder|Dupli|142.0
+    100872: Snow land.001|Cylinder|Dupli|143.0
+    100874: Snow land.001|Cylinder|Dupli|144.0
+    100876: Snow land.001|Cylinder|Dupli|145.0
+    100878: Snow land.001|Cylinder|Dupli|146.0
+    100880: Snow land.001|Cylinder|Dupli|147.0
+    100882: Snow land.001|Cylinder|Dupli|148.0
+    100884: Snow land.001|Cylinder|Dupli|149.0
+    100886: Snow land.001|Cylinder|Dupli|15.0
+    100888: Snow land.001|Cylinder|Dupli|150.0
+    100890: Snow land.001|Cylinder|Dupli|151.0
+    100892: Snow land.001|Cylinder|Dupli|152.0
+    100894: Snow land.001|Cylinder|Dupli|153.0
+    100896: Snow land.001|Cylinder|Dupli|154.0
+    100898: Snow land.001|Cylinder|Dupli|155.0
+    100900: Snow land.001|Cylinder|Dupli|156.0
+    100902: Snow land.001|Cylinder|Dupli|157.0
+    100904: Snow land.001|Cylinder|Dupli|158.0
+    100906: Snow land.001|Cylinder|Dupli|159.0
+    100908: Snow land.001|Cylinder|Dupli|16.0
+    100910: Snow land.001|Cylinder|Dupli|160.0
+    100912: Snow land.001|Cylinder|Dupli|161.0
+    100914: Snow land.001|Cylinder|Dupli|162.0
+    100916: Snow land.001|Cylinder|Dupli|163.0
+    100918: Snow land.001|Cylinder|Dupli|164.0
+    100920: Snow land.001|Cylinder|Dupli|165.0
+    100922: Snow land.001|Cylinder|Dupli|166.0
+    100924: Snow land.001|Cylinder|Dupli|167.0
+    100926: Snow land.001|Cylinder|Dupli|168.0
+    100928: Snow land.001|Cylinder|Dupli|169.0
+    100930: Snow land.001|Cylinder|Dupli|17.0
+    100932: Snow land.001|Cylinder|Dupli|170.0
+    100934: Snow land.001|Cylinder|Dupli|171.0
+    100936: Snow land.001|Cylinder|Dupli|172.0
+    100938: Snow land.001|Cylinder|Dupli|173.0
+    100940: Snow land.001|Cylinder|Dupli|174.0
+    100942: Snow land.001|Cylinder|Dupli|18.0
+    100944: Snow land.001|Cylinder|Dupli|19.0
+    100946: Snow land.001|Cylinder|Dupli|2.0
+    100948: Snow land.001|Cylinder|Dupli|20.0
+    100950: Snow land.001|Cylinder|Dupli|21.0
+    100952: Snow land.001|Cylinder|Dupli|22.0
+    100954: Snow land.001|Cylinder|Dupli|23.0
+    100956: Snow land.001|Cylinder|Dupli|24.0
+    100958: Snow land.001|Cylinder|Dupli|25.0
+    100960: Snow land.001|Cylinder|Dupli|26.0
+    100962: Snow land.001|Cylinder|Dupli|27.0
+    100964: Snow land.001|Cylinder|Dupli|28.0
+    100966: Snow land.001|Cylinder|Dupli|29.0
+    100968: Snow land.001|Cylinder|Dupli|3.0
+    100970: Snow land.001|Cylinder|Dupli|30.0
+    100972: Snow land.001|Cylinder|Dupli|31.0
+    100974: Snow land.001|Cylinder|Dupli|32.0
+    100976: Snow land.001|Cylinder|Dupli|33.0
+    100978: Snow land.001|Cylinder|Dupli|34.0
+    100980: Snow land.001|Cylinder|Dupli|35.0
+    100982: Snow land.001|Cylinder|Dupli|36.0
+    100984: Snow land.001|Cylinder|Dupli|37.0
+    100986: Snow land.001|Cylinder|Dupli|38.0
+    100988: Snow land.001|Cylinder|Dupli|39.0
+    100990: Snow land.001|Cylinder|Dupli|4.0
+    100992: Snow land.001|Cylinder|Dupli|40.0
+    100994: Snow land.001|Cylinder|Dupli|41.0
+    100996: Snow land.001|Cylinder|Dupli|42.0
+    100998: Snow land.001|Cylinder|Dupli|43.0
+    101000: Snow land.001|Cylinder|Dupli|44.0
+    101002: Snow land.001|Cylinder|Dupli|45.0
+    101004: Snow land.001|Cylinder|Dupli|46.0
+    101006: Snow land.001|Cylinder|Dupli|47.0
+    101008: Snow land.001|Cylinder|Dupli|48.0
+    101010: Snow land.001|Cylinder|Dupli|49.0
+    101012: Snow land.001|Cylinder|Dupli|5.0
+    101014: Snow land.001|Cylinder|Dupli|50.0
+    101016: Snow land.001|Cylinder|Dupli|51.0
+    101018: Snow land.001|Cylinder|Dupli|52.0
+    101020: Snow land.001|Cylinder|Dupli|53.0
+    101022: Snow land.001|Cylinder|Dupli|54.0
+    101024: Snow land.001|Cylinder|Dupli|55.0
+    101026: Snow land.001|Cylinder|Dupli|56.0
+    101028: Snow land.001|Cylinder|Dupli|57.0
+    101030: Snow land.001|Cylinder|Dupli|58.0
+    101032: Snow land.001|Cylinder|Dupli|59.0
+    101034: Snow land.001|Cylinder|Dupli|6.0
+    101036: Snow land.001|Cylinder|Dupli|60.0
+    101038: Snow land.001|Cylinder|Dupli|61.0
+    101040: Snow land.001|Cylinder|Dupli|62.0
+    101042: Snow land.001|Cylinder|Dupli|63.0
+    101044: Snow land.001|Cylinder|Dupli|64.0
+    101046: Snow land.001|Cylinder|Dupli|65.0
+    101048: Snow land.001|Cylinder|Dupli|66.0
+    101050: Snow land.001|Cylinder|Dupli|67.0
+    101052: Snow land.001|Cylinder|Dupli|68.0
+    101054: Snow land.001|Cylinder|Dupli|69.0
+    101056: Snow land.001|Cylinder|Dupli|7.0
+    101058: Snow land.001|Cylinder|Dupli|70.0
+    101060: Snow land.001|Cylinder|Dupli|71.0
+    101062: Snow land.001|Cylinder|Dupli|72.0
+    101064: Snow land.001|Cylinder|Dupli|73.0
+    101066: Snow land.001|Cylinder|Dupli|74.0
+    101068: Snow land.001|Cylinder|Dupli|75.0
+    101070: Snow land.001|Cylinder|Dupli|76.0
+    101072: Snow land.001|Cylinder|Dupli|77.0
+    101074: Snow land.001|Cylinder|Dupli|78.0
+    101076: Snow land.001|Cylinder|Dupli|79.0
+    101078: Snow land.001|Cylinder|Dupli|8.0
+    101080: Snow land.001|Cylinder|Dupli|80.0
+    101082: Snow land.001|Cylinder|Dupli|81.0
+    101084: Snow land.001|Cylinder|Dupli|82.0
+    101086: Snow land.001|Cylinder|Dupli|83.0
+    101088: Snow land.001|Cylinder|Dupli|84.0
+    101090: Snow land.001|Cylinder|Dupli|85.0
+    101092: Snow land.001|Cylinder|Dupli|86.0
+    101094: Snow land.001|Cylinder|Dupli|87.0
+    101096: Snow land.001|Cylinder|Dupli|88.0
+    101098: Snow land.001|Cylinder|Dupli|89.0
+    101100: Snow land.001|Cylinder|Dupli|9.0
+    101102: Snow land.001|Cylinder|Dupli|90.0
+    101104: Snow land.001|Cylinder|Dupli|91.0
+    101106: Snow land.001|Cylinder|Dupli|92.0
+    101108: Snow land.001|Cylinder|Dupli|93.0
+    101110: Snow land.001|Cylinder|Dupli|94.0
+    101112: Snow land.001|Cylinder|Dupli|95.0
+    101114: Snow land.001|Cylinder|Dupli|96.0
+    101116: Snow land.001|Cylinder|Dupli|97.0
+    101118: Snow land.001|Cylinder|Dupli|98.0
+    101120: Snow land.001|Cylinder|Dupli|99.0
+    101122: Wasteland
+    101124: Wasteland.001
+    101126: Wasteland.001|Icosphere.003|Dupli|0.0
+    101128: Wasteland.001|Icosphere.003|Dupli|1.0
+    101130: Wasteland.001|Icosphere.003|Dupli|10.0
+    101132: Wasteland.001|Icosphere.003|Dupli|100.0
+    101134: Wasteland.001|Icosphere.003|Dupli|101.0
+    101136: Wasteland.001|Icosphere.003|Dupli|102.0
+    101138: Wasteland.001|Icosphere.003|Dupli|103.0
+    101140: Wasteland.001|Icosphere.003|Dupli|104.0
+    101142: Wasteland.001|Icosphere.003|Dupli|105.0
+    101144: Wasteland.001|Icosphere.003|Dupli|106.0
+    101146: Wasteland.001|Icosphere.003|Dupli|107.0
+    101148: Wasteland.001|Icosphere.003|Dupli|108.0
+    101150: Wasteland.001|Icosphere.003|Dupli|109.0
+    101152: Wasteland.001|Icosphere.003|Dupli|11.0
+    101154: Wasteland.001|Icosphere.003|Dupli|110.0
+    101156: Wasteland.001|Icosphere.003|Dupli|111.0
+    101158: Wasteland.001|Icosphere.003|Dupli|112.0
+    101160: Wasteland.001|Icosphere.003|Dupli|113.0
+    101162: Wasteland.001|Icosphere.003|Dupli|114.0
+    101164: Wasteland.001|Icosphere.003|Dupli|115.0
+    101166: Wasteland.001|Icosphere.003|Dupli|116.0
+    101168: Wasteland.001|Icosphere.003|Dupli|117.0
+    101170: Wasteland.001|Icosphere.003|Dupli|118.0
+    101172: Wasteland.001|Icosphere.003|Dupli|119.0
+    101174: Wasteland.001|Icosphere.003|Dupli|12.0
+    101176: Wasteland.001|Icosphere.003|Dupli|120.0
+    101178: Wasteland.001|Icosphere.003|Dupli|121.0
+    101180: Wasteland.001|Icosphere.003|Dupli|122.0
+    101182: Wasteland.001|Icosphere.003|Dupli|123.0
+    101184: Wasteland.001|Icosphere.003|Dupli|124.0
+    101186: Wasteland.001|Icosphere.003|Dupli|125.0
+    101188: Wasteland.001|Icosphere.003|Dupli|126.0
+    101190: Wasteland.001|Icosphere.003|Dupli|127.0
+    101192: Wasteland.001|Icosphere.003|Dupli|128.0
+    101194: Wasteland.001|Icosphere.003|Dupli|129.0
+    101196: Wasteland.001|Icosphere.003|Dupli|13.0
+    101198: Wasteland.001|Icosphere.003|Dupli|130.0
+    101200: Wasteland.001|Icosphere.003|Dupli|131.0
+    101202: Wasteland.001|Icosphere.003|Dupli|132.0
+    101204: Wasteland.001|Icosphere.003|Dupli|133.0
+    101206: Wasteland.001|Icosphere.003|Dupli|134.0
+    101208: Wasteland.001|Icosphere.003|Dupli|135.0
+    101210: Wasteland.001|Icosphere.003|Dupli|136.0
+    101212: Wasteland.001|Icosphere.003|Dupli|137.0
+    101214: Wasteland.001|Icosphere.003|Dupli|138.0
+    101216: Wasteland.001|Icosphere.003|Dupli|139.0
+    101218: Wasteland.001|Icosphere.003|Dupli|14.0
+    101220: Wasteland.001|Icosphere.003|Dupli|140.0
+    101222: Wasteland.001|Icosphere.003|Dupli|141.0
+    101224: Wasteland.001|Icosphere.003|Dupli|142.0
+    101226: Wasteland.001|Icosphere.003|Dupli|143.0
+    101228: Wasteland.001|Icosphere.003|Dupli|144.0
+    101230: Wasteland.001|Icosphere.003|Dupli|145.0
+    101232: Wasteland.001|Icosphere.003|Dupli|146.0
+    101234: Wasteland.001|Icosphere.003|Dupli|147.0
+    101236: Wasteland.001|Icosphere.003|Dupli|148.0
+    101238: Wasteland.001|Icosphere.003|Dupli|149.0
+    101240: Wasteland.001|Icosphere.003|Dupli|15.0
+    101242: Wasteland.001|Icosphere.003|Dupli|150.0
+    101244: Wasteland.001|Icosphere.003|Dupli|151.0
+    101246: Wasteland.001|Icosphere.003|Dupli|152.0
+    101248: Wasteland.001|Icosphere.003|Dupli|153.0
+    101250: Wasteland.001|Icosphere.003|Dupli|154.0
+    101252: Wasteland.001|Icosphere.003|Dupli|155.0
+    101254: Wasteland.001|Icosphere.003|Dupli|156.0
+    101256: Wasteland.001|Icosphere.003|Dupli|157.0
+    101258: Wasteland.001|Icosphere.003|Dupli|158.0
+    101260: Wasteland.001|Icosphere.003|Dupli|159.0
+    101262: Wasteland.001|Icosphere.003|Dupli|16.0
+    101264: Wasteland.001|Icosphere.003|Dupli|160.0
+    101266: Wasteland.001|Icosphere.003|Dupli|161.0
+    101268: Wasteland.001|Icosphere.003|Dupli|162.0
+    101270: Wasteland.001|Icosphere.003|Dupli|163.0
+    101272: Wasteland.001|Icosphere.003|Dupli|164.0
+    101274: Wasteland.001|Icosphere.003|Dupli|165.0
+    101276: Wasteland.001|Icosphere.003|Dupli|166.0
+    101278: Wasteland.001|Icosphere.003|Dupli|167.0
+    101280: Wasteland.001|Icosphere.003|Dupli|168.0
+    101282: Wasteland.001|Icosphere.003|Dupli|169.0
+    101284: Wasteland.001|Icosphere.003|Dupli|17.0
+    101286: Wasteland.001|Icosphere.003|Dupli|170.0
+    101288: Wasteland.001|Icosphere.003|Dupli|171.0
+    101290: Wasteland.001|Icosphere.003|Dupli|172.0
+    101292: Wasteland.001|Icosphere.003|Dupli|173.0
+    101294: Wasteland.001|Icosphere.003|Dupli|174.0
+    101296: Wasteland.001|Icosphere.003|Dupli|175.0
+    101298: Wasteland.001|Icosphere.003|Dupli|176.0
+    101300: Wasteland.001|Icosphere.003|Dupli|177.0
+    101302: Wasteland.001|Icosphere.003|Dupli|178.0
+    101304: Wasteland.001|Icosphere.003|Dupli|179.0
+    101306: Wasteland.001|Icosphere.003|Dupli|18.0
+    101308: Wasteland.001|Icosphere.003|Dupli|180.0
+    101310: Wasteland.001|Icosphere.003|Dupli|181.0
+    101312: Wasteland.001|Icosphere.003|Dupli|182.0
+    101314: Wasteland.001|Icosphere.003|Dupli|183.0
+    101316: Wasteland.001|Icosphere.003|Dupli|184.0
+    101318: Wasteland.001|Icosphere.003|Dupli|185.0
+    101320: Wasteland.001|Icosphere.003|Dupli|186.0
+    101322: Wasteland.001|Icosphere.003|Dupli|187.0
+    101324: Wasteland.001|Icosphere.003|Dupli|188.0
+    101326: Wasteland.001|Icosphere.003|Dupli|189.0
+    101328: Wasteland.001|Icosphere.003|Dupli|19.0
+    101330: Wasteland.001|Icosphere.003|Dupli|190.0
+    101332: Wasteland.001|Icosphere.003|Dupli|191.0
+    101334: Wasteland.001|Icosphere.003|Dupli|192.0
+    101336: Wasteland.001|Icosphere.003|Dupli|193.0
+    101338: Wasteland.001|Icosphere.003|Dupli|194.0
+    101340: Wasteland.001|Icosphere.003|Dupli|195.0
+    101342: Wasteland.001|Icosphere.003|Dupli|196.0
+    101344: Wasteland.001|Icosphere.003|Dupli|197.0
+    101346: Wasteland.001|Icosphere.003|Dupli|198.0
+    101348: Wasteland.001|Icosphere.003|Dupli|199.0
+    101350: Wasteland.001|Icosphere.003|Dupli|2.0
+    101352: Wasteland.001|Icosphere.003|Dupli|20.0
+    101354: Wasteland.001|Icosphere.003|Dupli|21.0
+    101356: Wasteland.001|Icosphere.003|Dupli|22.0
+    101358: Wasteland.001|Icosphere.003|Dupli|23.0
+    101360: Wasteland.001|Icosphere.003|Dupli|24.0
+    101362: Wasteland.001|Icosphere.003|Dupli|25.0
+    101364: Wasteland.001|Icosphere.003|Dupli|26.0
+    101366: Wasteland.001|Icosphere.003|Dupli|27.0
+    101368: Wasteland.001|Icosphere.003|Dupli|28.0
+    101370: Wasteland.001|Icosphere.003|Dupli|29.0
+    101372: Wasteland.001|Icosphere.003|Dupli|3.0
+    101374: Wasteland.001|Icosphere.003|Dupli|30.0
+    101376: Wasteland.001|Icosphere.003|Dupli|31.0
+    101378: Wasteland.001|Icosphere.003|Dupli|32.0
+    101380: Wasteland.001|Icosphere.003|Dupli|33.0
+    101382: Wasteland.001|Icosphere.003|Dupli|34.0
+    101384: Wasteland.001|Icosphere.003|Dupli|35.0
+    101386: Wasteland.001|Icosphere.003|Dupli|36.0
+    101388: Wasteland.001|Icosphere.003|Dupli|37.0
+    101390: Wasteland.001|Icosphere.003|Dupli|38.0
+    101392: Wasteland.001|Icosphere.003|Dupli|39.0
+    101394: Wasteland.001|Icosphere.003|Dupli|4.0
+    101396: Wasteland.001|Icosphere.003|Dupli|40.0
+    101398: Wasteland.001|Icosphere.003|Dupli|41.0
+    101400: Wasteland.001|Icosphere.003|Dupli|42.0
+    101402: Wasteland.001|Icosphere.003|Dupli|43.0
+    101404: Wasteland.001|Icosphere.003|Dupli|44.0
+    101406: Wasteland.001|Icosphere.003|Dupli|45.0
+    101408: Wasteland.001|Icosphere.003|Dupli|46.0
+    101410: Wasteland.001|Icosphere.003|Dupli|47.0
+    101412: Wasteland.001|Icosphere.003|Dupli|48.0
+    101414: Wasteland.001|Icosphere.003|Dupli|49.0
+    101416: Wasteland.001|Icosphere.003|Dupli|5.0
+    101418: Wasteland.001|Icosphere.003|Dupli|50.0
+    101420: Wasteland.001|Icosphere.003|Dupli|51.0
+    101422: Wasteland.001|Icosphere.003|Dupli|52.0
+    101424: Wasteland.001|Icosphere.003|Dupli|53.0
+    101426: Wasteland.001|Icosphere.003|Dupli|54.0
+    101428: Wasteland.001|Icosphere.003|Dupli|55.0
+    101430: Wasteland.001|Icosphere.003|Dupli|56.0
+    101432: Wasteland.001|Icosphere.003|Dupli|57.0
+    101434: Wasteland.001|Icosphere.003|Dupli|58.0
+    101436: Wasteland.001|Icosphere.003|Dupli|59.0
+    101438: Wasteland.001|Icosphere.003|Dupli|6.0
+    101440: Wasteland.001|Icosphere.003|Dupli|60.0
+    101442: Wasteland.001|Icosphere.003|Dupli|61.0
+    101444: Wasteland.001|Icosphere.003|Dupli|62.0
+    101446: Wasteland.001|Icosphere.003|Dupli|63.0
+    101448: Wasteland.001|Icosphere.003|Dupli|64.0
+    101450: Wasteland.001|Icosphere.003|Dupli|65.0
+    101452: Wasteland.001|Icosphere.003|Dupli|66.0
+    101454: Wasteland.001|Icosphere.003|Dupli|67.0
+    101456: Wasteland.001|Icosphere.003|Dupli|68.0
+    101458: Wasteland.001|Icosphere.003|Dupli|69.0
+    101460: Wasteland.001|Icosphere.003|Dupli|7.0
+    101462: Wasteland.001|Icosphere.003|Dupli|70.0
+    101464: Wasteland.001|Icosphere.003|Dupli|71.0
+    101466: Wasteland.001|Icosphere.003|Dupli|72.0
+    101468: Wasteland.001|Icosphere.003|Dupli|73.0
+    101470: Wasteland.001|Icosphere.003|Dupli|74.0
+    101472: Wasteland.001|Icosphere.003|Dupli|75.0
+    101474: Wasteland.001|Icosphere.003|Dupli|76.0
+    101476: Wasteland.001|Icosphere.003|Dupli|77.0
+    101478: Wasteland.001|Icosphere.003|Dupli|78.0
+    101480: Wasteland.001|Icosphere.003|Dupli|79.0
+    101482: Wasteland.001|Icosphere.003|Dupli|8.0
+    101484: Wasteland.001|Icosphere.003|Dupli|80.0
+    101486: Wasteland.001|Icosphere.003|Dupli|81.0
+    101488: Wasteland.001|Icosphere.003|Dupli|82.0
+    101490: Wasteland.001|Icosphere.003|Dupli|83.0
+    101492: Wasteland.001|Icosphere.003|Dupli|84.0
+    101494: Wasteland.001|Icosphere.003|Dupli|85.0
+    101496: Wasteland.001|Icosphere.003|Dupli|86.0
+    101498: Wasteland.001|Icosphere.003|Dupli|87.0
+    101500: Wasteland.001|Icosphere.003|Dupli|88.0
+    101502: Wasteland.001|Icosphere.003|Dupli|89.0
+    101504: Wasteland.001|Icosphere.003|Dupli|9.0
+    101506: Wasteland.001|Icosphere.003|Dupli|90.0
+    101508: Wasteland.001|Icosphere.003|Dupli|91.0
+    101510: Wasteland.001|Icosphere.003|Dupli|92.0
+    101512: Wasteland.001|Icosphere.003|Dupli|93.0
+    101514: Wasteland.001|Icosphere.003|Dupli|94.0
+    101516: Wasteland.001|Icosphere.003|Dupli|95.0
+    101518: Wasteland.001|Icosphere.003|Dupli|96.0
+    101520: Wasteland.001|Icosphere.003|Dupli|97.0
+    101522: Wasteland.001|Icosphere.003|Dupli|98.0
+    101524: Wasteland.001|Icosphere.003|Dupli|99.0
+    400000: //RootNode
+    400002: Cylinder
+    400004: Cylinder.001
+    400006: Cylinder.002
+    400008: Cylinder.003
+    400010: Cylinder.004
+    400012: Cylinder.005
+    400014: Cylinder.006
+    400016: Cylinder.007
+    400018: Cylinder.008
+    400020: Cylinder.009
+    400022: Cylinder.010
+    400024: Cylinder.011
+    400026: Cylinder.012
+    400028: Cylinder.013
+    400030: Cylinder.014
+    400032: Cylinder.015
+    400034: Cylinder.016
+    400036: Cylinder.017
+    400038: Cylinder.018
+    400040: Cylinder.019
+    400042: Cylinder.020
+    400044: Cylinder.021
+    400046: Cylinder.022
+    400048: Cylinder.023
+    400050: Cylinder.024
+    400052: Cylinder.025
+    400054: Cylinder.026
+    400056: Cylinder.027
+    400058: Cylinder.028
+    400060: Cylinder.029
+    400062: Cylinder.030
+    400064: Cylinder.031
+    400066: Cylinder.032
+    400068: Cylinder.033
+    400070: Cylinder.034
+    400072: Cylinder.035
+    400074: Cylinder.036
+    400076: Cylinder.037
+    400078: Cylinder.038
+    400080: Cylinder.039
+    400082: Cylinder.040
+    400084: Cylinder.041
+    400086: Cylinder.042
+    400088: Cylinder.043
+    400090: Cylinder.044
+    400092: Cylinder.045
+    400094: Cylinder.046
+    400096: Cylinder.047
+    400098: Cylinder.048
+    400100: Cylinder.049
+    400102: Cylinder.050
+    400104: Cylinder.051
+    400106: Cylinder.052
+    400108: Cylinder.053
+    400110: Cylinder.054
+    400112: Cylinder.055
+    400114: Cylinder.056
+    400116: Cylinder.057
+    400118: Cylinder.058
+    400120: Cylinder.059
+    400122: Cylinder.060
+    400124: Cylinder.061
+    400126: Cylinder.062
+    400128: Cylinder.063
+    400130: Cylinder.064
+    400132: Cylinder.065
+    400134: Cylinder.066
+    400136: Cylinder.067
+    400138: Cylinder.068
+    400140: Cylinder.069
+    400142: Cylinder.070
+    400144: Cylinder.071
+    400146: Cylinder.072
+    400148: Cylinder.073
+    400150: Cylinder.074
+    400152: Cylinder.075
+    400154: Cylinder.076
+    400156: Cylinder.077
+    400158: Cylinder.078
+    400160: Cylinder.079
+    400162: Cylinder.080
+    400164: Cylinder.081
+    400166: Cylinder.082
+    400168: Cylinder.083
+    400170: Cylinder.084
+    400172: Cylinder.085
+    400174: Cylinder.086
+    400176: Cylinder.087
+    400178: Cylinder.088
+    400180: Cylinder.089
+    400182: Cylinder.090
+    400184: Cylinder.091
+    400186: Cylinder.092
+    400188: Cylinder.093
+    400190: Cylinder.094
+    400192: Cylinder.095
+    400194: Cylinder.096
+    400196: Cylinder.097
+    400198: Cylinder.098
+    400200: Cylinder.099
+    400202: Cylinder.100
+    400204: Cylinder.101
+    400206: Cylinder.102
+    400208: Cylinder.103
+    400210: Cylinder.104
+    400212: Cylinder.105
+    400214: Cylinder.106
+    400216: Cylinder.107
+    400218: Cylinder.108
+    400220: Cylinder.109
+    400222: Cylinder.110
+    400224: Cylinder.111
+    400226: Cylinder.112
+    400228: Cylinder.113
+    400230: Cylinder.114
+    400232: Cylinder.115
+    400234: Cylinder.116
+    400236: Cylinder.117
+    400238: Cylinder.118
+    400240: Cylinder.119
+    400242: Cylinder.120
+    400244: Cylinder.121
+    400246: Cylinder.122
+    400248: Cylinder.123
+    400250: Cylinder.124
+    400252: Cylinder.125
+    400254: Cylinder.126
+    400256: Cylinder.127
+    400258: Cylinder.128
+    400260: Cylinder.129
+    400262: Cylinder.130
+    400264: Cylinder.131
+    400266: Cylinder.132
+    400268: Cylinder.133
+    400270: Cylinder.134
+    400272: Cylinder.135
+    400274: Cylinder.136
+    400276: Cylinder.137
+    400278: Cylinder.138
+    400280: Cylinder.139
+    400282: Cylinder.140
+    400284: Cylinder.141
+    400286: Cylinder.142
+    400288: Cylinder.143
+    400290: Cylinder.144
+    400292: Cylinder.145
+    400294: Cylinder.146
+    400296: Cylinder.147
+    400298: Cylinder.148
+    400300: Cylinder.149
+    400302: Cylinder.150
+    400304: Cylinder.151
+    400306: Cylinder.152
+    400308: Cylinder.153
+    400310: Cylinder.154
+    400312: Cylinder.155
+    400314: Cylinder.156
+    400316: Cylinder.157
+    400318: Cylinder.158
+    400320: Cylinder.159
+    400322: Cylinder.160
+    400324: Cylinder.161
+    400326: Cylinder.162
+    400328: Cylinder.163
+    400330: Cylinder.164
+    400332: Cylinder.165
+    400334: Cylinder.166
+    400336: Cylinder.167
+    400338: Cylinder.168
+    400340: Cylinder.169
+    400342: Cylinder.170
+    400344: Cylinder.171
+    400346: Cylinder.172
+    400348: Cylinder.173
+    400350: Cylinder.174
+    400352: Cylinder.175
+    400354: Desert LandScape
+    400356: Icosphere.000
+    400358: Icosphere.001
+    400360: Icosphere.002
+    400362: Icosphere.003
+    400364: Icosphere.004
+    400366: Icosphere.005
+    400368: Icosphere.006
+    400370: Icosphere.007
+    400372: Icosphere.008
+    400374: Icosphere.009
+    400376: Icosphere.010
+    400378: Icosphere.011
+    400380: Icosphere.012
+    400382: Icosphere.013
+    400384: Icosphere.014
+    400386: Icosphere.015
+    400388: Icosphere.016
+    400390: Icosphere.017
+    400392: Icosphere.018
+    400394: Icosphere.019
+    400396: Icosphere.020
+    400398: Icosphere.021
+    400400: Icosphere.022
+    400402: Icosphere.023
+    400404: Icosphere.024
+    400406: Icosphere.025
+    400408: Icosphere.026
+    400410: Icosphere.027
+    400412: Icosphere.028
+    400414: Icosphere.029
+    400416: Icosphere.030
+    400418: Icosphere.031
+    400420: Icosphere.032
+    400422: Icosphere.033
+    400424: Icosphere.034
+    400426: Icosphere.035
+    400428: Icosphere.036
+    400430: Icosphere.037
+    400432: Icosphere.038
+    400434: Icosphere.039
+    400436: Icosphere.040
+    400438: Icosphere.041
+    400440: Icosphere.042
+    400442: Icosphere.043
+    400444: Icosphere.044
+    400446: Icosphere.045
+    400448: Icosphere.046
+    400450: Icosphere.047
+    400452: Icosphere.048
+    400454: Icosphere.049
+    400456: Icosphere.050
+    400458: Icosphere.051
+    400460: Icosphere.052
+    400462: Icosphere.053
+    400464: Icosphere.054
+    400466: Icosphere.055
+    400468: Icosphere.056
+    400470: Icosphere.057
+    400472: Icosphere.058
+    400474: Icosphere.059
+    400476: Icosphere.060
+    400478: Icosphere.061
+    400480: Icosphere.062
+    400482: Icosphere.063
+    400484: Icosphere.064
+    400486: Icosphere.065
+    400488: Icosphere.066
+    400490: Icosphere.067
+    400492: Icosphere.068
+    400494: Icosphere.069
+    400496: Icosphere.070
+    400498: Icosphere.071
+    400500: Icosphere.072
+    400502: Icosphere.073
+    400504: Icosphere.074
+    400506: Icosphere.075
+    400508: Icosphere.076
+    400510: Icosphere.077
+    400512: Icosphere.078
+    400514: Icosphere.079
+    400516: Icosphere.080
+    400518: Icosphere.081
+    400520: Icosphere.082
+    400522: Icosphere.083
+    400524: Icosphere.084
+    400526: Icosphere.085
+    400528: Icosphere.086
+    400530: Icosphere.087
+    400532: Icosphere.088
+    400534: Icosphere.089
+    400536: Icosphere.090
+    400538: Icosphere.091
+    400540: Icosphere.092
+    400542: Icosphere.093
+    400544: Icosphere.094
+    400546: Icosphere.095
+    400548: Icosphere.096
+    400550: Icosphere.097
+    400552: Icosphere.098
+    400554: Icosphere.099
+    400556: Icosphere.100
+    400558: Icosphere.101
+    400560: Icosphere.102
+    400562: Icosphere.103
+    400564: Icosphere.104
+    400566: Icosphere.105
+    400568: Icosphere.106
+    400570: Icosphere.107
+    400572: Icosphere.108
+    400574: Icosphere.109
+    400576: Icosphere.110
+    400578: Icosphere.111
+    400580: Icosphere.112
+    400582: Icosphere.113
+    400584: Icosphere.114
+    400586: Icosphere.115
+    400588: Icosphere.116
+    400590: Icosphere.117
+    400592: Icosphere.118
+    400594: Icosphere.119
+    400596: Icosphere.120
+    400598: Icosphere.121
+    400600: Icosphere.122
+    400602: Icosphere.123
+    400604: Icosphere.124
+    400606: Icosphere.125
+    400608: Icosphere.126
+    400610: Icosphere.127
+    400612: Icosphere.128
+    400614: Icosphere.129
+    400616: Icosphere.130
+    400618: Icosphere.131
+    400620: Icosphere.132
+    400622: Icosphere.133
+    400624: Icosphere.134
+    400626: Icosphere.135
+    400628: Icosphere.136
+    400630: Icosphere.137
+    400632: Icosphere.138
+    400634: Icosphere.139
+    400636: Icosphere.140
+    400638: Icosphere.141
+    400640: Icosphere.142
+    400642: Icosphere.143
+    400644: Icosphere.144
+    400646: Icosphere.145
+    400648: Icosphere.146
+    400650: Icosphere.147
+    400652: Icosphere.148
+    400654: Icosphere.149
+    400656: Icosphere.150
+    400658: Icosphere.151
+    400660: Icosphere.152
+    400662: Icosphere.153
+    400664: Icosphere.154
+    400666: Icosphere.155
+    400668: Icosphere.156
+    400670: Icosphere.157
+    400672: Icosphere.158
+    400674: Icosphere.159
+    400676: Icosphere.160
+    400678: Icosphere.161
+    400680: Icosphere.162
+    400682: Icosphere.163
+    400684: Icosphere.164
+    400686: Icosphere.165
+    400688: Icosphere.166
+    400690: Icosphere.167
+    400692: Icosphere.168
+    400694: Icosphere.169
+    400696: Icosphere.170
+    400698: Icosphere.171
+    400700: Icosphere.172
+    400702: Icosphere.173
+    400704: Icosphere.174
+    400706: Icosphere.175
+    400708: Icosphere.176
+    400710: Icosphere.177
+    400712: Icosphere.178
+    400714: Icosphere.179
+    400716: Icosphere.180
+    400718: Icosphere.181
+    400720: Icosphere.182
+    400722: Icosphere.183
+    400724: Icosphere.184
+    400726: Icosphere.185
+    400728: Icosphere.186
+    400730: Icosphere.187
+    400732: Icosphere.188
+    400734: Icosphere.189
+    400736: Icosphere.190
+    400738: Icosphere.191
+    400740: Icosphere.192
+    400742: Icosphere.193
+    400744: Icosphere.194
+    400746: Icosphere.195
+    400748: Icosphere.196
+    400750: Icosphere.197
+    400752: Icosphere.198
+    400754: Icosphere.199
+    400756: Icosphere.200
+    400758: Icosphere.201
+    400760: Icosphere.202
+    400762: Icosphere.203
+    400764: Icosphere.204
+    400766: Icosphere.205
+    400768: Snow land
+    400770: Snow land.001
+    400772: Snow land.001|Cylinder|Dupli|0.0
+    400774: Snow land.001|Cylinder|Dupli|1.0
+    400776: Snow land.001|Cylinder|Dupli|10.0
+    400778: Snow land.001|Cylinder|Dupli|100.0
+    400780: Snow land.001|Cylinder|Dupli|101.0
+    400782: Snow land.001|Cylinder|Dupli|102.0
+    400784: Snow land.001|Cylinder|Dupli|103.0
+    400786: Snow land.001|Cylinder|Dupli|104.0
+    400788: Snow land.001|Cylinder|Dupli|105.0
+    400790: Snow land.001|Cylinder|Dupli|106.0
+    400792: Snow land.001|Cylinder|Dupli|107.0
+    400794: Snow land.001|Cylinder|Dupli|108.0
+    400796: Snow land.001|Cylinder|Dupli|109.0
+    400798: Snow land.001|Cylinder|Dupli|11.0
+    400800: Snow land.001|Cylinder|Dupli|110.0
+    400802: Snow land.001|Cylinder|Dupli|111.0
+    400804: Snow land.001|Cylinder|Dupli|112.0
+    400806: Snow land.001|Cylinder|Dupli|113.0
+    400808: Snow land.001|Cylinder|Dupli|114.0
+    400810: Snow land.001|Cylinder|Dupli|115.0
+    400812: Snow land.001|Cylinder|Dupli|116.0
+    400814: Snow land.001|Cylinder|Dupli|117.0
+    400816: Snow land.001|Cylinder|Dupli|118.0
+    400818: Snow land.001|Cylinder|Dupli|119.0
+    400820: Snow land.001|Cylinder|Dupli|12.0
+    400822: Snow land.001|Cylinder|Dupli|120.0
+    400824: Snow land.001|Cylinder|Dupli|121.0
+    400826: Snow land.001|Cylinder|Dupli|122.0
+    400828: Snow land.001|Cylinder|Dupli|123.0
+    400830: Snow land.001|Cylinder|Dupli|124.0
+    400832: Snow land.001|Cylinder|Dupli|125.0
+    400834: Snow land.001|Cylinder|Dupli|126.0
+    400836: Snow land.001|Cylinder|Dupli|127.0
+    400838: Snow land.001|Cylinder|Dupli|128.0
+    400840: Snow land.001|Cylinder|Dupli|129.0
+    400842: Snow land.001|Cylinder|Dupli|13.0
+    400844: Snow land.001|Cylinder|Dupli|130.0
+    400846: Snow land.001|Cylinder|Dupli|131.0
+    400848: Snow land.001|Cylinder|Dupli|132.0
+    400850: Snow land.001|Cylinder|Dupli|133.0
+    400852: Snow land.001|Cylinder|Dupli|134.0
+    400854: Snow land.001|Cylinder|Dupli|135.0
+    400856: Snow land.001|Cylinder|Dupli|136.0
+    400858: Snow land.001|Cylinder|Dupli|137.0
+    400860: Snow land.001|Cylinder|Dupli|138.0
+    400862: Snow land.001|Cylinder|Dupli|139.0
+    400864: Snow land.001|Cylinder|Dupli|14.0
+    400866: Snow land.001|Cylinder|Dupli|140.0
+    400868: Snow land.001|Cylinder|Dupli|141.0
+    400870: Snow land.001|Cylinder|Dupli|142.0
+    400872: Snow land.001|Cylinder|Dupli|143.0
+    400874: Snow land.001|Cylinder|Dupli|144.0
+    400876: Snow land.001|Cylinder|Dupli|145.0
+    400878: Snow land.001|Cylinder|Dupli|146.0
+    400880: Snow land.001|Cylinder|Dupli|147.0
+    400882: Snow land.001|Cylinder|Dupli|148.0
+    400884: Snow land.001|Cylinder|Dupli|149.0
+    400886: Snow land.001|Cylinder|Dupli|15.0
+    400888: Snow land.001|Cylinder|Dupli|150.0
+    400890: Snow land.001|Cylinder|Dupli|151.0
+    400892: Snow land.001|Cylinder|Dupli|152.0
+    400894: Snow land.001|Cylinder|Dupli|153.0
+    400896: Snow land.001|Cylinder|Dupli|154.0
+    400898: Snow land.001|Cylinder|Dupli|155.0
+    400900: Snow land.001|Cylinder|Dupli|156.0
+    400902: Snow land.001|Cylinder|Dupli|157.0
+    400904: Snow land.001|Cylinder|Dupli|158.0
+    400906: Snow land.001|Cylinder|Dupli|159.0
+    400908: Snow land.001|Cylinder|Dupli|16.0
+    400910: Snow land.001|Cylinder|Dupli|160.0
+    400912: Snow land.001|Cylinder|Dupli|161.0
+    400914: Snow land.001|Cylinder|Dupli|162.0
+    400916: Snow land.001|Cylinder|Dupli|163.0
+    400918: Snow land.001|Cylinder|Dupli|164.0
+    400920: Snow land.001|Cylinder|Dupli|165.0
+    400922: Snow land.001|Cylinder|Dupli|166.0
+    400924: Snow land.001|Cylinder|Dupli|167.0
+    400926: Snow land.001|Cylinder|Dupli|168.0
+    400928: Snow land.001|Cylinder|Dupli|169.0
+    400930: Snow land.001|Cylinder|Dupli|17.0
+    400932: Snow land.001|Cylinder|Dupli|170.0
+    400934: Snow land.001|Cylinder|Dupli|171.0
+    400936: Snow land.001|Cylinder|Dupli|172.0
+    400938: Snow land.001|Cylinder|Dupli|173.0
+    400940: Snow land.001|Cylinder|Dupli|174.0
+    400942: Snow land.001|Cylinder|Dupli|18.0
+    400944: Snow land.001|Cylinder|Dupli|19.0
+    400946: Snow land.001|Cylinder|Dupli|2.0
+    400948: Snow land.001|Cylinder|Dupli|20.0
+    400950: Snow land.001|Cylinder|Dupli|21.0
+    400952: Snow land.001|Cylinder|Dupli|22.0
+    400954: Snow land.001|Cylinder|Dupli|23.0
+    400956: Snow land.001|Cylinder|Dupli|24.0
+    400958: Snow land.001|Cylinder|Dupli|25.0
+    400960: Snow land.001|Cylinder|Dupli|26.0
+    400962: Snow land.001|Cylinder|Dupli|27.0
+    400964: Snow land.001|Cylinder|Dupli|28.0
+    400966: Snow land.001|Cylinder|Dupli|29.0
+    400968: Snow land.001|Cylinder|Dupli|3.0
+    400970: Snow land.001|Cylinder|Dupli|30.0
+    400972: Snow land.001|Cylinder|Dupli|31.0
+    400974: Snow land.001|Cylinder|Dupli|32.0
+    400976: Snow land.001|Cylinder|Dupli|33.0
+    400978: Snow land.001|Cylinder|Dupli|34.0
+    400980: Snow land.001|Cylinder|Dupli|35.0
+    400982: Snow land.001|Cylinder|Dupli|36.0
+    400984: Snow land.001|Cylinder|Dupli|37.0
+    400986: Snow land.001|Cylinder|Dupli|38.0
+    400988: Snow land.001|Cylinder|Dupli|39.0
+    400990: Snow land.001|Cylinder|Dupli|4.0
+    400992: Snow land.001|Cylinder|Dupli|40.0
+    400994: Snow land.001|Cylinder|Dupli|41.0
+    400996: Snow land.001|Cylinder|Dupli|42.0
+    400998: Snow land.001|Cylinder|Dupli|43.0
+    401000: Snow land.001|Cylinder|Dupli|44.0
+    401002: Snow land.001|Cylinder|Dupli|45.0
+    401004: Snow land.001|Cylinder|Dupli|46.0
+    401006: Snow land.001|Cylinder|Dupli|47.0
+    401008: Snow land.001|Cylinder|Dupli|48.0
+    401010: Snow land.001|Cylinder|Dupli|49.0
+    401012: Snow land.001|Cylinder|Dupli|5.0
+    401014: Snow land.001|Cylinder|Dupli|50.0
+    401016: Snow land.001|Cylinder|Dupli|51.0
+    401018: Snow land.001|Cylinder|Dupli|52.0
+    401020: Snow land.001|Cylinder|Dupli|53.0
+    401022: Snow land.001|Cylinder|Dupli|54.0
+    401024: Snow land.001|Cylinder|Dupli|55.0
+    401026: Snow land.001|Cylinder|Dupli|56.0
+    401028: Snow land.001|Cylinder|Dupli|57.0
+    401030: Snow land.001|Cylinder|Dupli|58.0
+    401032: Snow land.001|Cylinder|Dupli|59.0
+    401034: Snow land.001|Cylinder|Dupli|6.0
+    401036: Snow land.001|Cylinder|Dupli|60.0
+    401038: Snow land.001|Cylinder|Dupli|61.0
+    401040: Snow land.001|Cylinder|Dupli|62.0
+    401042: Snow land.001|Cylinder|Dupli|63.0
+    401044: Snow land.001|Cylinder|Dupli|64.0
+    401046: Snow land.001|Cylinder|Dupli|65.0
+    401048: Snow land.001|Cylinder|Dupli|66.0
+    401050: Snow land.001|Cylinder|Dupli|67.0
+    401052: Snow land.001|Cylinder|Dupli|68.0
+    401054: Snow land.001|Cylinder|Dupli|69.0
+    401056: Snow land.001|Cylinder|Dupli|7.0
+    401058: Snow land.001|Cylinder|Dupli|70.0
+    401060: Snow land.001|Cylinder|Dupli|71.0
+    401062: Snow land.001|Cylinder|Dupli|72.0
+    401064: Snow land.001|Cylinder|Dupli|73.0
+    401066: Snow land.001|Cylinder|Dupli|74.0
+    401068: Snow land.001|Cylinder|Dupli|75.0
+    401070: Snow land.001|Cylinder|Dupli|76.0
+    401072: Snow land.001|Cylinder|Dupli|77.0
+    401074: Snow land.001|Cylinder|Dupli|78.0
+    401076: Snow land.001|Cylinder|Dupli|79.0
+    401078: Snow land.001|Cylinder|Dupli|8.0
+    401080: Snow land.001|Cylinder|Dupli|80.0
+    401082: Snow land.001|Cylinder|Dupli|81.0
+    401084: Snow land.001|Cylinder|Dupli|82.0
+    401086: Snow land.001|Cylinder|Dupli|83.0
+    401088: Snow land.001|Cylinder|Dupli|84.0
+    401090: Snow land.001|Cylinder|Dupli|85.0
+    401092: Snow land.001|Cylinder|Dupli|86.0
+    401094: Snow land.001|Cylinder|Dupli|87.0
+    401096: Snow land.001|Cylinder|Dupli|88.0
+    401098: Snow land.001|Cylinder|Dupli|89.0
+    401100: Snow land.001|Cylinder|Dupli|9.0
+    401102: Snow land.001|Cylinder|Dupli|90.0
+    401104: Snow land.001|Cylinder|Dupli|91.0
+    401106: Snow land.001|Cylinder|Dupli|92.0
+    401108: Snow land.001|Cylinder|Dupli|93.0
+    401110: Snow land.001|Cylinder|Dupli|94.0
+    401112: Snow land.001|Cylinder|Dupli|95.0
+    401114: Snow land.001|Cylinder|Dupli|96.0
+    401116: Snow land.001|Cylinder|Dupli|97.0
+    401118: Snow land.001|Cylinder|Dupli|98.0
+    401120: Snow land.001|Cylinder|Dupli|99.0
+    401122: Wasteland
+    401124: Wasteland.001
+    401126: Wasteland.001|Icosphere.003|Dupli|0.0
+    401128: Wasteland.001|Icosphere.003|Dupli|1.0
+    401130: Wasteland.001|Icosphere.003|Dupli|10.0
+    401132: Wasteland.001|Icosphere.003|Dupli|100.0
+    401134: Wasteland.001|Icosphere.003|Dupli|101.0
+    401136: Wasteland.001|Icosphere.003|Dupli|102.0
+    401138: Wasteland.001|Icosphere.003|Dupli|103.0
+    401140: Wasteland.001|Icosphere.003|Dupli|104.0
+    401142: Wasteland.001|Icosphere.003|Dupli|105.0
+    401144: Wasteland.001|Icosphere.003|Dupli|106.0
+    401146: Wasteland.001|Icosphere.003|Dupli|107.0
+    401148: Wasteland.001|Icosphere.003|Dupli|108.0
+    401150: Wasteland.001|Icosphere.003|Dupli|109.0
+    401152: Wasteland.001|Icosphere.003|Dupli|11.0
+    401154: Wasteland.001|Icosphere.003|Dupli|110.0
+    401156: Wasteland.001|Icosphere.003|Dupli|111.0
+    401158: Wasteland.001|Icosphere.003|Dupli|112.0
+    401160: Wasteland.001|Icosphere.003|Dupli|113.0
+    401162: Wasteland.001|Icosphere.003|Dupli|114.0
+    401164: Wasteland.001|Icosphere.003|Dupli|115.0
+    401166: Wasteland.001|Icosphere.003|Dupli|116.0
+    401168: Wasteland.001|Icosphere.003|Dupli|117.0
+    401170: Wasteland.001|Icosphere.003|Dupli|118.0
+    401172: Wasteland.001|Icosphere.003|Dupli|119.0
+    401174: Wasteland.001|Icosphere.003|Dupli|12.0
+    401176: Wasteland.001|Icosphere.003|Dupli|120.0
+    401178: Wasteland.001|Icosphere.003|Dupli|121.0
+    401180: Wasteland.001|Icosphere.003|Dupli|122.0
+    401182: Wasteland.001|Icosphere.003|Dupli|123.0
+    401184: Wasteland.001|Icosphere.003|Dupli|124.0
+    401186: Wasteland.001|Icosphere.003|Dupli|125.0
+    401188: Wasteland.001|Icosphere.003|Dupli|126.0
+    401190: Wasteland.001|Icosphere.003|Dupli|127.0
+    401192: Wasteland.001|Icosphere.003|Dupli|128.0
+    401194: Wasteland.001|Icosphere.003|Dupli|129.0
+    401196: Wasteland.001|Icosphere.003|Dupli|13.0
+    401198: Wasteland.001|Icosphere.003|Dupli|130.0
+    401200: Wasteland.001|Icosphere.003|Dupli|131.0
+    401202: Wasteland.001|Icosphere.003|Dupli|132.0
+    401204: Wasteland.001|Icosphere.003|Dupli|133.0
+    401206: Wasteland.001|Icosphere.003|Dupli|134.0
+    401208: Wasteland.001|Icosphere.003|Dupli|135.0
+    401210: Wasteland.001|Icosphere.003|Dupli|136.0
+    401212: Wasteland.001|Icosphere.003|Dupli|137.0
+    401214: Wasteland.001|Icosphere.003|Dupli|138.0
+    401216: Wasteland.001|Icosphere.003|Dupli|139.0
+    401218: Wasteland.001|Icosphere.003|Dupli|14.0
+    401220: Wasteland.001|Icosphere.003|Dupli|140.0
+    401222: Wasteland.001|Icosphere.003|Dupli|141.0
+    401224: Wasteland.001|Icosphere.003|Dupli|142.0
+    401226: Wasteland.001|Icosphere.003|Dupli|143.0
+    401228: Wasteland.001|Icosphere.003|Dupli|144.0
+    401230: Wasteland.001|Icosphere.003|Dupli|145.0
+    401232: Wasteland.001|Icosphere.003|Dupli|146.0
+    401234: Wasteland.001|Icosphere.003|Dupli|147.0
+    401236: Wasteland.001|Icosphere.003|Dupli|148.0
+    401238: Wasteland.001|Icosphere.003|Dupli|149.0
+    401240: Wasteland.001|Icosphere.003|Dupli|15.0
+    401242: Wasteland.001|Icosphere.003|Dupli|150.0
+    401244: Wasteland.001|Icosphere.003|Dupli|151.0
+    401246: Wasteland.001|Icosphere.003|Dupli|152.0
+    401248: Wasteland.001|Icosphere.003|Dupli|153.0
+    401250: Wasteland.001|Icosphere.003|Dupli|154.0
+    401252: Wasteland.001|Icosphere.003|Dupli|155.0
+    401254: Wasteland.001|Icosphere.003|Dupli|156.0
+    401256: Wasteland.001|Icosphere.003|Dupli|157.0
+    401258: Wasteland.001|Icosphere.003|Dupli|158.0
+    401260: Wasteland.001|Icosphere.003|Dupli|159.0
+    401262: Wasteland.001|Icosphere.003|Dupli|16.0
+    401264: Wasteland.001|Icosphere.003|Dupli|160.0
+    401266: Wasteland.001|Icosphere.003|Dupli|161.0
+    401268: Wasteland.001|Icosphere.003|Dupli|162.0
+    401270: Wasteland.001|Icosphere.003|Dupli|163.0
+    401272: Wasteland.001|Icosphere.003|Dupli|164.0
+    401274: Wasteland.001|Icosphere.003|Dupli|165.0
+    401276: Wasteland.001|Icosphere.003|Dupli|166.0
+    401278: Wasteland.001|Icosphere.003|Dupli|167.0
+    401280: Wasteland.001|Icosphere.003|Dupli|168.0
+    401282: Wasteland.001|Icosphere.003|Dupli|169.0
+    401284: Wasteland.001|Icosphere.003|Dupli|17.0
+    401286: Wasteland.001|Icosphere.003|Dupli|170.0
+    401288: Wasteland.001|Icosphere.003|Dupli|171.0
+    401290: Wasteland.001|Icosphere.003|Dupli|172.0
+    401292: Wasteland.001|Icosphere.003|Dupli|173.0
+    401294: Wasteland.001|Icosphere.003|Dupli|174.0
+    401296: Wasteland.001|Icosphere.003|Dupli|175.0
+    401298: Wasteland.001|Icosphere.003|Dupli|176.0
+    401300: Wasteland.001|Icosphere.003|Dupli|177.0
+    401302: Wasteland.001|Icosphere.003|Dupli|178.0
+    401304: Wasteland.001|Icosphere.003|Dupli|179.0
+    401306: Wasteland.001|Icosphere.003|Dupli|18.0
+    401308: Wasteland.001|Icosphere.003|Dupli|180.0
+    401310: Wasteland.001|Icosphere.003|Dupli|181.0
+    401312: Wasteland.001|Icosphere.003|Dupli|182.0
+    401314: Wasteland.001|Icosphere.003|Dupli|183.0
+    401316: Wasteland.001|Icosphere.003|Dupli|184.0
+    401318: Wasteland.001|Icosphere.003|Dupli|185.0
+    401320: Wasteland.001|Icosphere.003|Dupli|186.0
+    401322: Wasteland.001|Icosphere.003|Dupli|187.0
+    401324: Wasteland.001|Icosphere.003|Dupli|188.0
+    401326: Wasteland.001|Icosphere.003|Dupli|189.0
+    401328: Wasteland.001|Icosphere.003|Dupli|19.0
+    401330: Wasteland.001|Icosphere.003|Dupli|190.0
+    401332: Wasteland.001|Icosphere.003|Dupli|191.0
+    401334: Wasteland.001|Icosphere.003|Dupli|192.0
+    401336: Wasteland.001|Icosphere.003|Dupli|193.0
+    401338: Wasteland.001|Icosphere.003|Dupli|194.0
+    401340: Wasteland.001|Icosphere.003|Dupli|195.0
+    401342: Wasteland.001|Icosphere.003|Dupli|196.0
+    401344: Wasteland.001|Icosphere.003|Dupli|197.0
+    401346: Wasteland.001|Icosphere.003|Dupli|198.0
+    401348: Wasteland.001|Icosphere.003|Dupli|199.0
+    401350: Wasteland.001|Icosphere.003|Dupli|2.0
+    401352: Wasteland.001|Icosphere.003|Dupli|20.0
+    401354: Wasteland.001|Icosphere.003|Dupli|21.0
+    401356: Wasteland.001|Icosphere.003|Dupli|22.0
+    401358: Wasteland.001|Icosphere.003|Dupli|23.0
+    401360: Wasteland.001|Icosphere.003|Dupli|24.0
+    401362: Wasteland.001|Icosphere.003|Dupli|25.0
+    401364: Wasteland.001|Icosphere.003|Dupli|26.0
+    401366: Wasteland.001|Icosphere.003|Dupli|27.0
+    401368: Wasteland.001|Icosphere.003|Dupli|28.0
+    401370: Wasteland.001|Icosphere.003|Dupli|29.0
+    401372: Wasteland.001|Icosphere.003|Dupli|3.0
+    401374: Wasteland.001|Icosphere.003|Dupli|30.0
+    401376: Wasteland.001|Icosphere.003|Dupli|31.0
+    401378: Wasteland.001|Icosphere.003|Dupli|32.0
+    401380: Wasteland.001|Icosphere.003|Dupli|33.0
+    401382: Wasteland.001|Icosphere.003|Dupli|34.0
+    401384: Wasteland.001|Icosphere.003|Dupli|35.0
+    401386: Wasteland.001|Icosphere.003|Dupli|36.0
+    401388: Wasteland.001|Icosphere.003|Dupli|37.0
+    401390: Wasteland.001|Icosphere.003|Dupli|38.0
+    401392: Wasteland.001|Icosphere.003|Dupli|39.0
+    401394: Wasteland.001|Icosphere.003|Dupli|4.0
+    401396: Wasteland.001|Icosphere.003|Dupli|40.0
+    401398: Wasteland.001|Icosphere.003|Dupli|41.0
+    401400: Wasteland.001|Icosphere.003|Dupli|42.0
+    401402: Wasteland.001|Icosphere.003|Dupli|43.0
+    401404: Wasteland.001|Icosphere.003|Dupli|44.0
+    401406: Wasteland.001|Icosphere.003|Dupli|45.0
+    401408: Wasteland.001|Icosphere.003|Dupli|46.0
+    401410: Wasteland.001|Icosphere.003|Dupli|47.0
+    401412: Wasteland.001|Icosphere.003|Dupli|48.0
+    401414: Wasteland.001|Icosphere.003|Dupli|49.0
+    401416: Wasteland.001|Icosphere.003|Dupli|5.0
+    401418: Wasteland.001|Icosphere.003|Dupli|50.0
+    401420: Wasteland.001|Icosphere.003|Dupli|51.0
+    401422: Wasteland.001|Icosphere.003|Dupli|52.0
+    401424: Wasteland.001|Icosphere.003|Dupli|53.0
+    401426: Wasteland.001|Icosphere.003|Dupli|54.0
+    401428: Wasteland.001|Icosphere.003|Dupli|55.0
+    401430: Wasteland.001|Icosphere.003|Dupli|56.0
+    401432: Wasteland.001|Icosphere.003|Dupli|57.0
+    401434: Wasteland.001|Icosphere.003|Dupli|58.0
+    401436: Wasteland.001|Icosphere.003|Dupli|59.0
+    401438: Wasteland.001|Icosphere.003|Dupli|6.0
+    401440: Wasteland.001|Icosphere.003|Dupli|60.0
+    401442: Wasteland.001|Icosphere.003|Dupli|61.0
+    401444: Wasteland.001|Icosphere.003|Dupli|62.0
+    401446: Wasteland.001|Icosphere.003|Dupli|63.0
+    401448: Wasteland.001|Icosphere.003|Dupli|64.0
+    401450: Wasteland.001|Icosphere.003|Dupli|65.0
+    401452: Wasteland.001|Icosphere.003|Dupli|66.0
+    401454: Wasteland.001|Icosphere.003|Dupli|67.0
+    401456: Wasteland.001|Icosphere.003|Dupli|68.0
+    401458: Wasteland.001|Icosphere.003|Dupli|69.0
+    401460: Wasteland.001|Icosphere.003|Dupli|7.0
+    401462: Wasteland.001|Icosphere.003|Dupli|70.0
+    401464: Wasteland.001|Icosphere.003|Dupli|71.0
+    401466: Wasteland.001|Icosphere.003|Dupli|72.0
+    401468: Wasteland.001|Icosphere.003|Dupli|73.0
+    401470: Wasteland.001|Icosphere.003|Dupli|74.0
+    401472: Wasteland.001|Icosphere.003|Dupli|75.0
+    401474: Wasteland.001|Icosphere.003|Dupli|76.0
+    401476: Wasteland.001|Icosphere.003|Dupli|77.0
+    401478: Wasteland.001|Icosphere.003|Dupli|78.0
+    401480: Wasteland.001|Icosphere.003|Dupli|79.0
+    401482: Wasteland.001|Icosphere.003|Dupli|8.0
+    401484: Wasteland.001|Icosphere.003|Dupli|80.0
+    401486: Wasteland.001|Icosphere.003|Dupli|81.0
+    401488: Wasteland.001|Icosphere.003|Dupli|82.0
+    401490: Wasteland.001|Icosphere.003|Dupli|83.0
+    401492: Wasteland.001|Icosphere.003|Dupli|84.0
+    401494: Wasteland.001|Icosphere.003|Dupli|85.0
+    401496: Wasteland.001|Icosphere.003|Dupli|86.0
+    401498: Wasteland.001|Icosphere.003|Dupli|87.0
+    401500: Wasteland.001|Icosphere.003|Dupli|88.0
+    401502: Wasteland.001|Icosphere.003|Dupli|89.0
+    401504: Wasteland.001|Icosphere.003|Dupli|9.0
+    401506: Wasteland.001|Icosphere.003|Dupli|90.0
+    401508: Wasteland.001|Icosphere.003|Dupli|91.0
+    401510: Wasteland.001|Icosphere.003|Dupli|92.0
+    401512: Wasteland.001|Icosphere.003|Dupli|93.0
+    401514: Wasteland.001|Icosphere.003|Dupli|94.0
+    401516: Wasteland.001|Icosphere.003|Dupli|95.0
+    401518: Wasteland.001|Icosphere.003|Dupli|96.0
+    401520: Wasteland.001|Icosphere.003|Dupli|97.0
+    401522: Wasteland.001|Icosphere.003|Dupli|98.0
+    401524: Wasteland.001|Icosphere.003|Dupli|99.0
+    2300000: Cylinder
+    2300002: Cylinder.001
+    2300004: Cylinder.002
+    2300006: Cylinder.003
+    2300008: Cylinder.004
+    2300010: Cylinder.005
+    2300012: Cylinder.006
+    2300014: Cylinder.007
+    2300016: Cylinder.008
+    2300018: Cylinder.009
+    2300020: Cylinder.010
+    2300022: Cylinder.011
+    2300024: Cylinder.012
+    2300026: Cylinder.013
+    2300028: Cylinder.014
+    2300030: Cylinder.015
+    2300032: Cylinder.016
+    2300034: Cylinder.017
+    2300036: Cylinder.018
+    2300038: Cylinder.019
+    2300040: Cylinder.020
+    2300042: Cylinder.021
+    2300044: Cylinder.022
+    2300046: Cylinder.023
+    2300048: Cylinder.024
+    2300050: Cylinder.025
+    2300052: Cylinder.026
+    2300054: Cylinder.027
+    2300056: Cylinder.028
+    2300058: Cylinder.029
+    2300060: Cylinder.030
+    2300062: Cylinder.031
+    2300064: Cylinder.032
+    2300066: Cylinder.033
+    2300068: Cylinder.034
+    2300070: Cylinder.035
+    2300072: Cylinder.036
+    2300074: Cylinder.037
+    2300076: Cylinder.038
+    2300078: Cylinder.039
+    2300080: Cylinder.040
+    2300082: Cylinder.041
+    2300084: Cylinder.042
+    2300086: Cylinder.043
+    2300088: Cylinder.044
+    2300090: Cylinder.045
+    2300092: Cylinder.046
+    2300094: Cylinder.047
+    2300096: Cylinder.048
+    2300098: Cylinder.049
+    2300100: Cylinder.050
+    2300102: Cylinder.051
+    2300104: Cylinder.052
+    2300106: Cylinder.053
+    2300108: Cylinder.054
+    2300110: Cylinder.055
+    2300112: Cylinder.056
+    2300114: Cylinder.057
+    2300116: Cylinder.058
+    2300118: Cylinder.059
+    2300120: Cylinder.060
+    2300122: Cylinder.061
+    2300124: Cylinder.062
+    2300126: Cylinder.063
+    2300128: Cylinder.064
+    2300130: Cylinder.065
+    2300132: Cylinder.066
+    2300134: Cylinder.067
+    2300136: Cylinder.068
+    2300138: Cylinder.069
+    2300140: Cylinder.070
+    2300142: Cylinder.071
+    2300144: Cylinder.072
+    2300146: Cylinder.073
+    2300148: Cylinder.074
+    2300150: Cylinder.075
+    2300152: Cylinder.076
+    2300154: Cylinder.077
+    2300156: Cylinder.078
+    2300158: Cylinder.079
+    2300160: Cylinder.080
+    2300162: Cylinder.081
+    2300164: Cylinder.082
+    2300166: Cylinder.083
+    2300168: Cylinder.084
+    2300170: Cylinder.085
+    2300172: Cylinder.086
+    2300174: Cylinder.087
+    2300176: Cylinder.088
+    2300178: Cylinder.089
+    2300180: Cylinder.090
+    2300182: Cylinder.091
+    2300184: Cylinder.092
+    2300186: Cylinder.093
+    2300188: Cylinder.094
+    2300190: Cylinder.095
+    2300192: Cylinder.096
+    2300194: Cylinder.097
+    2300196: Cylinder.098
+    2300198: Cylinder.099
+    2300200: Cylinder.100
+    2300202: Cylinder.101
+    2300204: Cylinder.102
+    2300206: Cylinder.103
+    2300208: Cylinder.104
+    2300210: Cylinder.105
+    2300212: Cylinder.106
+    2300214: Cylinder.107
+    2300216: Cylinder.108
+    2300218: Cylinder.109
+    2300220: Cylinder.110
+    2300222: Cylinder.111
+    2300224: Cylinder.112
+    2300226: Cylinder.113
+    2300228: Cylinder.114
+    2300230: Cylinder.115
+    2300232: Cylinder.116
+    2300234: Cylinder.117
+    2300236: Cylinder.118
+    2300238: Cylinder.119
+    2300240: Cylinder.120
+    2300242: Cylinder.121
+    2300244: Cylinder.122
+    2300246: Cylinder.123
+    2300248: Cylinder.124
+    2300250: Cylinder.125
+    2300252: Cylinder.126
+    2300254: Cylinder.127
+    2300256: Cylinder.128
+    2300258: Cylinder.129
+    2300260: Cylinder.130
+    2300262: Cylinder.131
+    2300264: Cylinder.132
+    2300266: Cylinder.133
+    2300268: Cylinder.134
+    2300270: Cylinder.135
+    2300272: Cylinder.136
+    2300274: Cylinder.137
+    2300276: Cylinder.138
+    2300278: Cylinder.139
+    2300280: Cylinder.140
+    2300282: Cylinder.141
+    2300284: Cylinder.142
+    2300286: Cylinder.143
+    2300288: Cylinder.144
+    2300290: Cylinder.145
+    2300292: Cylinder.146
+    2300294: Cylinder.147
+    2300296: Cylinder.148
+    2300298: Cylinder.149
+    2300300: Cylinder.150
+    2300302: Cylinder.151
+    2300304: Cylinder.152
+    2300306: Cylinder.153
+    2300308: Cylinder.154
+    2300310: Cylinder.155
+    2300312: Cylinder.156
+    2300314: Cylinder.157
+    2300316: Cylinder.158
+    2300318: Cylinder.159
+    2300320: Cylinder.160
+    2300322: Cylinder.161
+    2300324: Cylinder.162
+    2300326: Cylinder.163
+    2300328: Cylinder.164
+    2300330: Cylinder.165
+    2300332: Cylinder.166
+    2300334: Cylinder.167
+    2300336: Cylinder.168
+    2300338: Cylinder.169
+    2300340: Cylinder.170
+    2300342: Cylinder.171
+    2300344: Cylinder.172
+    2300346: Cylinder.173
+    2300348: Cylinder.174
+    2300350: Cylinder.175
+    2300352: Desert LandScape
+    2300354: Icosphere.000
+    2300356: Icosphere.001
+    2300358: Icosphere.002
+    2300360: Icosphere.003
+    2300362: Icosphere.004
+    2300364: Icosphere.005
+    2300366: Icosphere.006
+    2300368: Icosphere.007
+    2300370: Icosphere.008
+    2300372: Icosphere.009
+    2300374: Icosphere.010
+    2300376: Icosphere.011
+    2300378: Icosphere.012
+    2300380: Icosphere.013
+    2300382: Icosphere.014
+    2300384: Icosphere.015
+    2300386: Icosphere.016
+    2300388: Icosphere.017
+    2300390: Icosphere.018
+    2300392: Icosphere.019
+    2300394: Icosphere.020
+    2300396: Icosphere.021
+    2300398: Icosphere.022
+    2300400: Icosphere.023
+    2300402: Icosphere.024
+    2300404: Icosphere.025
+    2300406: Icosphere.026
+    2300408: Icosphere.027
+    2300410: Icosphere.028
+    2300412: Icosphere.029
+    2300414: Icosphere.030
+    2300416: Icosphere.031
+    2300418: Icosphere.032
+    2300420: Icosphere.033
+    2300422: Icosphere.034
+    2300424: Icosphere.035
+    2300426: Icosphere.036
+    2300428: Icosphere.037
+    2300430: Icosphere.038
+    2300432: Icosphere.039
+    2300434: Icosphere.040
+    2300436: Icosphere.041
+    2300438: Icosphere.042
+    2300440: Icosphere.043
+    2300442: Icosphere.044
+    2300444: Icosphere.045
+    2300446: Icosphere.046
+    2300448: Icosphere.047
+    2300450: Icosphere.048
+    2300452: Icosphere.049
+    2300454: Icosphere.050
+    2300456: Icosphere.051
+    2300458: Icosphere.052
+    2300460: Icosphere.053
+    2300462: Icosphere.054
+    2300464: Icosphere.055
+    2300466: Icosphere.056
+    2300468: Icosphere.057
+    2300470: Icosphere.058
+    2300472: Icosphere.059
+    2300474: Icosphere.060
+    2300476: Icosphere.061
+    2300478: Icosphere.062
+    2300480: Icosphere.063
+    2300482: Icosphere.064
+    2300484: Icosphere.065
+    2300486: Icosphere.066
+    2300488: Icosphere.067
+    2300490: Icosphere.068
+    2300492: Icosphere.069
+    2300494: Icosphere.070
+    2300496: Icosphere.071
+    2300498: Icosphere.072
+    2300500: Icosphere.073
+    2300502: Icosphere.074
+    2300504: Icosphere.075
+    2300506: Icosphere.076
+    2300508: Icosphere.077
+    2300510: Icosphere.078
+    2300512: Icosphere.079
+    2300514: Icosphere.080
+    2300516: Icosphere.081
+    2300518: Icosphere.082
+    2300520: Icosphere.083
+    2300522: Icosphere.084
+    2300524: Icosphere.085
+    2300526: Icosphere.086
+    2300528: Icosphere.087
+    2300530: Icosphere.088
+    2300532: Icosphere.089
+    2300534: Icosphere.090
+    2300536: Icosphere.091
+    2300538: Icosphere.092
+    2300540: Icosphere.093
+    2300542: Icosphere.094
+    2300544: Icosphere.095
+    2300546: Icosphere.096
+    2300548: Icosphere.097
+    2300550: Icosphere.098
+    2300552: Icosphere.099
+    2300554: Icosphere.100
+    2300556: Icosphere.101
+    2300558: Icosphere.102
+    2300560: Icosphere.103
+    2300562: Icosphere.104
+    2300564: Icosphere.105
+    2300566: Icosphere.106
+    2300568: Icosphere.107
+    2300570: Icosphere.108
+    2300572: Icosphere.109
+    2300574: Icosphere.110
+    2300576: Icosphere.111
+    2300578: Icosphere.112
+    2300580: Icosphere.113
+    2300582: Icosphere.114
+    2300584: Icosphere.115
+    2300586: Icosphere.116
+    2300588: Icosphere.117
+    2300590: Icosphere.118
+    2300592: Icosphere.119
+    2300594: Icosphere.120
+    2300596: Icosphere.121
+    2300598: Icosphere.122
+    2300600: Icosphere.123
+    2300602: Icosphere.124
+    2300604: Icosphere.125
+    2300606: Icosphere.126
+    2300608: Icosphere.127
+    2300610: Icosphere.128
+    2300612: Icosphere.129
+    2300614: Icosphere.130
+    2300616: Icosphere.131
+    2300618: Icosphere.132
+    2300620: Icosphere.133
+    2300622: Icosphere.134
+    2300624: Icosphere.135
+    2300626: Icosphere.136
+    2300628: Icosphere.137
+    2300630: Icosphere.138
+    2300632: Icosphere.139
+    2300634: Icosphere.140
+    2300636: Icosphere.141
+    2300638: Icosphere.142
+    2300640: Icosphere.143
+    2300642: Icosphere.144
+    2300644: Icosphere.145
+    2300646: Icosphere.146
+    2300648: Icosphere.147
+    2300650: Icosphere.148
+    2300652: Icosphere.149
+    2300654: Icosphere.150
+    2300656: Icosphere.151
+    2300658: Icosphere.152
+    2300660: Icosphere.153
+    2300662: Icosphere.154
+    2300664: Icosphere.155
+    2300666: Icosphere.156
+    2300668: Icosphere.157
+    2300670: Icosphere.158
+    2300672: Icosphere.159
+    2300674: Icosphere.160
+    2300676: Icosphere.161
+    2300678: Icosphere.162
+    2300680: Icosphere.163
+    2300682: Icosphere.164
+    2300684: Icosphere.165
+    2300686: Icosphere.166
+    2300688: Icosphere.167
+    2300690: Icosphere.168
+    2300692: Icosphere.169
+    2300694: Icosphere.170
+    2300696: Icosphere.171
+    2300698: Icosphere.172
+    2300700: Icosphere.173
+    2300702: Icosphere.174
+    2300704: Icosphere.175
+    2300706: Icosphere.176
+    2300708: Icosphere.177
+    2300710: Icosphere.178
+    2300712: Icosphere.179
+    2300714: Icosphere.180
+    2300716: Icosphere.181
+    2300718: Icosphere.182
+    2300720: Icosphere.183
+    2300722: Icosphere.184
+    2300724: Icosphere.185
+    2300726: Icosphere.186
+    2300728: Icosphere.187
+    2300730: Icosphere.188
+    2300732: Icosphere.189
+    2300734: Icosphere.190
+    2300736: Icosphere.191
+    2300738: Icosphere.192
+    2300740: Icosphere.193
+    2300742: Icosphere.194
+    2300744: Icosphere.195
+    2300746: Icosphere.196
+    2300748: Icosphere.197
+    2300750: Icosphere.198
+    2300752: Icosphere.199
+    2300754: Icosphere.200
+    2300756: Icosphere.201
+    2300758: Icosphere.202
+    2300760: Icosphere.203
+    2300762: Icosphere.204
+    2300764: Icosphere.205
+    2300766: Snow land
+    2300768: Snow land.001
+    2300770: Snow land.001|Cylinder|Dupli|0.0
+    2300772: Snow land.001|Cylinder|Dupli|1.0
+    2300774: Snow land.001|Cylinder|Dupli|10.0
+    2300776: Snow land.001|Cylinder|Dupli|100.0
+    2300778: Snow land.001|Cylinder|Dupli|101.0
+    2300780: Snow land.001|Cylinder|Dupli|102.0
+    2300782: Snow land.001|Cylinder|Dupli|103.0
+    2300784: Snow land.001|Cylinder|Dupli|104.0
+    2300786: Snow land.001|Cylinder|Dupli|105.0
+    2300788: Snow land.001|Cylinder|Dupli|106.0
+    2300790: Snow land.001|Cylinder|Dupli|107.0
+    2300792: Snow land.001|Cylinder|Dupli|108.0
+    2300794: Snow land.001|Cylinder|Dupli|109.0
+    2300796: Snow land.001|Cylinder|Dupli|11.0
+    2300798: Snow land.001|Cylinder|Dupli|110.0
+    2300800: Snow land.001|Cylinder|Dupli|111.0
+    2300802: Snow land.001|Cylinder|Dupli|112.0
+    2300804: Snow land.001|Cylinder|Dupli|113.0
+    2300806: Snow land.001|Cylinder|Dupli|114.0
+    2300808: Snow land.001|Cylinder|Dupli|115.0
+    2300810: Snow land.001|Cylinder|Dupli|116.0
+    2300812: Snow land.001|Cylinder|Dupli|117.0
+    2300814: Snow land.001|Cylinder|Dupli|118.0
+    2300816: Snow land.001|Cylinder|Dupli|119.0
+    2300818: Snow land.001|Cylinder|Dupli|12.0
+    2300820: Snow land.001|Cylinder|Dupli|120.0
+    2300822: Snow land.001|Cylinder|Dupli|121.0
+    2300824: Snow land.001|Cylinder|Dupli|122.0
+    2300826: Snow land.001|Cylinder|Dupli|123.0
+    2300828: Snow land.001|Cylinder|Dupli|124.0
+    2300830: Snow land.001|Cylinder|Dupli|125.0
+    2300832: Snow land.001|Cylinder|Dupli|126.0
+    2300834: Snow land.001|Cylinder|Dupli|127.0
+    2300836: Snow land.001|Cylinder|Dupli|128.0
+    2300838: Snow land.001|Cylinder|Dupli|129.0
+    2300840: Snow land.001|Cylinder|Dupli|13.0
+    2300842: Snow land.001|Cylinder|Dupli|130.0
+    2300844: Snow land.001|Cylinder|Dupli|131.0
+    2300846: Snow land.001|Cylinder|Dupli|132.0
+    2300848: Snow land.001|Cylinder|Dupli|133.0
+    2300850: Snow land.001|Cylinder|Dupli|134.0
+    2300852: Snow land.001|Cylinder|Dupli|135.0
+    2300854: Snow land.001|Cylinder|Dupli|136.0
+    2300856: Snow land.001|Cylinder|Dupli|137.0
+    2300858: Snow land.001|Cylinder|Dupli|138.0
+    2300860: Snow land.001|Cylinder|Dupli|139.0
+    2300862: Snow land.001|Cylinder|Dupli|14.0
+    2300864: Snow land.001|Cylinder|Dupli|140.0
+    2300866: Snow land.001|Cylinder|Dupli|141.0
+    2300868: Snow land.001|Cylinder|Dupli|142.0
+    2300870: Snow land.001|Cylinder|Dupli|143.0
+    2300872: Snow land.001|Cylinder|Dupli|144.0
+    2300874: Snow land.001|Cylinder|Dupli|145.0
+    2300876: Snow land.001|Cylinder|Dupli|146.0
+    2300878: Snow land.001|Cylinder|Dupli|147.0
+    2300880: Snow land.001|Cylinder|Dupli|148.0
+    2300882: Snow land.001|Cylinder|Dupli|149.0
+    2300884: Snow land.001|Cylinder|Dupli|15.0
+    2300886: Snow land.001|Cylinder|Dupli|150.0
+    2300888: Snow land.001|Cylinder|Dupli|151.0
+    2300890: Snow land.001|Cylinder|Dupli|152.0
+    2300892: Snow land.001|Cylinder|Dupli|153.0
+    2300894: Snow land.001|Cylinder|Dupli|154.0
+    2300896: Snow land.001|Cylinder|Dupli|155.0
+    2300898: Snow land.001|Cylinder|Dupli|156.0
+    2300900: Snow land.001|Cylinder|Dupli|157.0
+    2300902: Snow land.001|Cylinder|Dupli|158.0
+    2300904: Snow land.001|Cylinder|Dupli|159.0
+    2300906: Snow land.001|Cylinder|Dupli|16.0
+    2300908: Snow land.001|Cylinder|Dupli|160.0
+    2300910: Snow land.001|Cylinder|Dupli|161.0
+    2300912: Snow land.001|Cylinder|Dupli|162.0
+    2300914: Snow land.001|Cylinder|Dupli|163.0
+    2300916: Snow land.001|Cylinder|Dupli|164.0
+    2300918: Snow land.001|Cylinder|Dupli|165.0
+    2300920: Snow land.001|Cylinder|Dupli|166.0
+    2300922: Snow land.001|Cylinder|Dupli|167.0
+    2300924: Snow land.001|Cylinder|Dupli|168.0
+    2300926: Snow land.001|Cylinder|Dupli|169.0
+    2300928: Snow land.001|Cylinder|Dupli|17.0
+    2300930: Snow land.001|Cylinder|Dupli|170.0
+    2300932: Snow land.001|Cylinder|Dupli|171.0
+    2300934: Snow land.001|Cylinder|Dupli|172.0
+    2300936: Snow land.001|Cylinder|Dupli|173.0
+    2300938: Snow land.001|Cylinder|Dupli|174.0
+    2300940: Snow land.001|Cylinder|Dupli|18.0
+    2300942: Snow land.001|Cylinder|Dupli|19.0
+    2300944: Snow land.001|Cylinder|Dupli|2.0
+    2300946: Snow land.001|Cylinder|Dupli|20.0
+    2300948: Snow land.001|Cylinder|Dupli|21.0
+    2300950: Snow land.001|Cylinder|Dupli|22.0
+    2300952: Snow land.001|Cylinder|Dupli|23.0
+    2300954: Snow land.001|Cylinder|Dupli|24.0
+    2300956: Snow land.001|Cylinder|Dupli|25.0
+    2300958: Snow land.001|Cylinder|Dupli|26.0
+    2300960: Snow land.001|Cylinder|Dupli|27.0
+    2300962: Snow land.001|Cylinder|Dupli|28.0
+    2300964: Snow land.001|Cylinder|Dupli|29.0
+    2300966: Snow land.001|Cylinder|Dupli|3.0
+    2300968: Snow land.001|Cylinder|Dupli|30.0
+    2300970: Snow land.001|Cylinder|Dupli|31.0
+    2300972: Snow land.001|Cylinder|Dupli|32.0
+    2300974: Snow land.001|Cylinder|Dupli|33.0
+    2300976: Snow land.001|Cylinder|Dupli|34.0
+    2300978: Snow land.001|Cylinder|Dupli|35.0
+    2300980: Snow land.001|Cylinder|Dupli|36.0
+    2300982: Snow land.001|Cylinder|Dupli|37.0
+    2300984: Snow land.001|Cylinder|Dupli|38.0
+    2300986: Snow land.001|Cylinder|Dupli|39.0
+    2300988: Snow land.001|Cylinder|Dupli|4.0
+    2300990: Snow land.001|Cylinder|Dupli|40.0
+    2300992: Snow land.001|Cylinder|Dupli|41.0
+    2300994: Snow land.001|Cylinder|Dupli|42.0
+    2300996: Snow land.001|Cylinder|Dupli|43.0
+    2300998: Snow land.001|Cylinder|Dupli|44.0
+    2301000: Snow land.001|Cylinder|Dupli|45.0
+    2301002: Snow land.001|Cylinder|Dupli|46.0
+    2301004: Snow land.001|Cylinder|Dupli|47.0
+    2301006: Snow land.001|Cylinder|Dupli|48.0
+    2301008: Snow land.001|Cylinder|Dupli|49.0
+    2301010: Snow land.001|Cylinder|Dupli|5.0
+    2301012: Snow land.001|Cylinder|Dupli|50.0
+    2301014: Snow land.001|Cylinder|Dupli|51.0
+    2301016: Snow land.001|Cylinder|Dupli|52.0
+    2301018: Snow land.001|Cylinder|Dupli|53.0
+    2301020: Snow land.001|Cylinder|Dupli|54.0
+    2301022: Snow land.001|Cylinder|Dupli|55.0
+    2301024: Snow land.001|Cylinder|Dupli|56.0
+    2301026: Snow land.001|Cylinder|Dupli|57.0
+    2301028: Snow land.001|Cylinder|Dupli|58.0
+    2301030: Snow land.001|Cylinder|Dupli|59.0
+    2301032: Snow land.001|Cylinder|Dupli|6.0
+    2301034: Snow land.001|Cylinder|Dupli|60.0
+    2301036: Snow land.001|Cylinder|Dupli|61.0
+    2301038: Snow land.001|Cylinder|Dupli|62.0
+    2301040: Snow land.001|Cylinder|Dupli|63.0
+    2301042: Snow land.001|Cylinder|Dupli|64.0
+    2301044: Snow land.001|Cylinder|Dupli|65.0
+    2301046: Snow land.001|Cylinder|Dupli|66.0
+    2301048: Snow land.001|Cylinder|Dupli|67.0
+    2301050: Snow land.001|Cylinder|Dupli|68.0
+    2301052: Snow land.001|Cylinder|Dupli|69.0
+    2301054: Snow land.001|Cylinder|Dupli|7.0
+    2301056: Snow land.001|Cylinder|Dupli|70.0
+    2301058: Snow land.001|Cylinder|Dupli|71.0
+    2301060: Snow land.001|Cylinder|Dupli|72.0
+    2301062: Snow land.001|Cylinder|Dupli|73.0
+    2301064: Snow land.001|Cylinder|Dupli|74.0
+    2301066: Snow land.001|Cylinder|Dupli|75.0
+    2301068: Snow land.001|Cylinder|Dupli|76.0
+    2301070: Snow land.001|Cylinder|Dupli|77.0
+    2301072: Snow land.001|Cylinder|Dupli|78.0
+    2301074: Snow land.001|Cylinder|Dupli|79.0
+    2301076: Snow land.001|Cylinder|Dupli|8.0
+    2301078: Snow land.001|Cylinder|Dupli|80.0
+    2301080: Snow land.001|Cylinder|Dupli|81.0
+    2301082: Snow land.001|Cylinder|Dupli|82.0
+    2301084: Snow land.001|Cylinder|Dupli|83.0
+    2301086: Snow land.001|Cylinder|Dupli|84.0
+    2301088: Snow land.001|Cylinder|Dupli|85.0
+    2301090: Snow land.001|Cylinder|Dupli|86.0
+    2301092: Snow land.001|Cylinder|Dupli|87.0
+    2301094: Snow land.001|Cylinder|Dupli|88.0
+    2301096: Snow land.001|Cylinder|Dupli|89.0
+    2301098: Snow land.001|Cylinder|Dupli|9.0
+    2301100: Snow land.001|Cylinder|Dupli|90.0
+    2301102: Snow land.001|Cylinder|Dupli|91.0
+    2301104: Snow land.001|Cylinder|Dupli|92.0
+    2301106: Snow land.001|Cylinder|Dupli|93.0
+    2301108: Snow land.001|Cylinder|Dupli|94.0
+    2301110: Snow land.001|Cylinder|Dupli|95.0
+    2301112: Snow land.001|Cylinder|Dupli|96.0
+    2301114: Snow land.001|Cylinder|Dupli|97.0
+    2301116: Snow land.001|Cylinder|Dupli|98.0
+    2301118: Snow land.001|Cylinder|Dupli|99.0
+    2301120: Wasteland
+    2301122: Wasteland.001
+    2301124: Wasteland.001|Icosphere.003|Dupli|0.0
+    2301126: Wasteland.001|Icosphere.003|Dupli|1.0
+    2301128: Wasteland.001|Icosphere.003|Dupli|10.0
+    2301130: Wasteland.001|Icosphere.003|Dupli|100.0
+    2301132: Wasteland.001|Icosphere.003|Dupli|101.0
+    2301134: Wasteland.001|Icosphere.003|Dupli|102.0
+    2301136: Wasteland.001|Icosphere.003|Dupli|103.0
+    2301138: Wasteland.001|Icosphere.003|Dupli|104.0
+    2301140: Wasteland.001|Icosphere.003|Dupli|105.0
+    2301142: Wasteland.001|Icosphere.003|Dupli|106.0
+    2301144: Wasteland.001|Icosphere.003|Dupli|107.0
+    2301146: Wasteland.001|Icosphere.003|Dupli|108.0
+    2301148: Wasteland.001|Icosphere.003|Dupli|109.0
+    2301150: Wasteland.001|Icosphere.003|Dupli|11.0
+    2301152: Wasteland.001|Icosphere.003|Dupli|110.0
+    2301154: Wasteland.001|Icosphere.003|Dupli|111.0
+    2301156: Wasteland.001|Icosphere.003|Dupli|112.0
+    2301158: Wasteland.001|Icosphere.003|Dupli|113.0
+    2301160: Wasteland.001|Icosphere.003|Dupli|114.0
+    2301162: Wasteland.001|Icosphere.003|Dupli|115.0
+    2301164: Wasteland.001|Icosphere.003|Dupli|116.0
+    2301166: Wasteland.001|Icosphere.003|Dupli|117.0
+    2301168: Wasteland.001|Icosphere.003|Dupli|118.0
+    2301170: Wasteland.001|Icosphere.003|Dupli|119.0
+    2301172: Wasteland.001|Icosphere.003|Dupli|12.0
+    2301174: Wasteland.001|Icosphere.003|Dupli|120.0
+    2301176: Wasteland.001|Icosphere.003|Dupli|121.0
+    2301178: Wasteland.001|Icosphere.003|Dupli|122.0
+    2301180: Wasteland.001|Icosphere.003|Dupli|123.0
+    2301182: Wasteland.001|Icosphere.003|Dupli|124.0
+    2301184: Wasteland.001|Icosphere.003|Dupli|125.0
+    2301186: Wasteland.001|Icosphere.003|Dupli|126.0
+    2301188: Wasteland.001|Icosphere.003|Dupli|127.0
+    2301190: Wasteland.001|Icosphere.003|Dupli|128.0
+    2301192: Wasteland.001|Icosphere.003|Dupli|129.0
+    2301194: Wasteland.001|Icosphere.003|Dupli|13.0
+    2301196: Wasteland.001|Icosphere.003|Dupli|130.0
+    2301198: Wasteland.001|Icosphere.003|Dupli|131.0
+    2301200: Wasteland.001|Icosphere.003|Dupli|132.0
+    2301202: Wasteland.001|Icosphere.003|Dupli|133.0
+    2301204: Wasteland.001|Icosphere.003|Dupli|134.0
+    2301206: Wasteland.001|Icosphere.003|Dupli|135.0
+    2301208: Wasteland.001|Icosphere.003|Dupli|136.0
+    2301210: Wasteland.001|Icosphere.003|Dupli|137.0
+    2301212: Wasteland.001|Icosphere.003|Dupli|138.0
+    2301214: Wasteland.001|Icosphere.003|Dupli|139.0
+    2301216: Wasteland.001|Icosphere.003|Dupli|14.0
+    2301218: Wasteland.001|Icosphere.003|Dupli|140.0
+    2301220: Wasteland.001|Icosphere.003|Dupli|141.0
+    2301222: Wasteland.001|Icosphere.003|Dupli|142.0
+    2301224: Wasteland.001|Icosphere.003|Dupli|143.0
+    2301226: Wasteland.001|Icosphere.003|Dupli|144.0
+    2301228: Wasteland.001|Icosphere.003|Dupli|145.0
+    2301230: Wasteland.001|Icosphere.003|Dupli|146.0
+    2301232: Wasteland.001|Icosphere.003|Dupli|147.0
+    2301234: Wasteland.001|Icosphere.003|Dupli|148.0
+    2301236: Wasteland.001|Icosphere.003|Dupli|149.0
+    2301238: Wasteland.001|Icosphere.003|Dupli|15.0
+    2301240: Wasteland.001|Icosphere.003|Dupli|150.0
+    2301242: Wasteland.001|Icosphere.003|Dupli|151.0
+    2301244: Wasteland.001|Icosphere.003|Dupli|152.0
+    2301246: Wasteland.001|Icosphere.003|Dupli|153.0
+    2301248: Wasteland.001|Icosphere.003|Dupli|154.0
+    2301250: Wasteland.001|Icosphere.003|Dupli|155.0
+    2301252: Wasteland.001|Icosphere.003|Dupli|156.0
+    2301254: Wasteland.001|Icosphere.003|Dupli|157.0
+    2301256: Wasteland.001|Icosphere.003|Dupli|158.0
+    2301258: Wasteland.001|Icosphere.003|Dupli|159.0
+    2301260: Wasteland.001|Icosphere.003|Dupli|16.0
+    2301262: Wasteland.001|Icosphere.003|Dupli|160.0
+    2301264: Wasteland.001|Icosphere.003|Dupli|161.0
+    2301266: Wasteland.001|Icosphere.003|Dupli|162.0
+    2301268: Wasteland.001|Icosphere.003|Dupli|163.0
+    2301270: Wasteland.001|Icosphere.003|Dupli|164.0
+    2301272: Wasteland.001|Icosphere.003|Dupli|165.0
+    2301274: Wasteland.001|Icosphere.003|Dupli|166.0
+    2301276: Wasteland.001|Icosphere.003|Dupli|167.0
+    2301278: Wasteland.001|Icosphere.003|Dupli|168.0
+    2301280: Wasteland.001|Icosphere.003|Dupli|169.0
+    2301282: Wasteland.001|Icosphere.003|Dupli|17.0
+    2301284: Wasteland.001|Icosphere.003|Dupli|170.0
+    2301286: Wasteland.001|Icosphere.003|Dupli|171.0
+    2301288: Wasteland.001|Icosphere.003|Dupli|172.0
+    2301290: Wasteland.001|Icosphere.003|Dupli|173.0
+    2301292: Wasteland.001|Icosphere.003|Dupli|174.0
+    2301294: Wasteland.001|Icosphere.003|Dupli|175.0
+    2301296: Wasteland.001|Icosphere.003|Dupli|176.0
+    2301298: Wasteland.001|Icosphere.003|Dupli|177.0
+    2301300: Wasteland.001|Icosphere.003|Dupli|178.0
+    2301302: Wasteland.001|Icosphere.003|Dupli|179.0
+    2301304: Wasteland.001|Icosphere.003|Dupli|18.0
+    2301306: Wasteland.001|Icosphere.003|Dupli|180.0
+    2301308: Wasteland.001|Icosphere.003|Dupli|181.0
+    2301310: Wasteland.001|Icosphere.003|Dupli|182.0
+    2301312: Wasteland.001|Icosphere.003|Dupli|183.0
+    2301314: Wasteland.001|Icosphere.003|Dupli|184.0
+    2301316: Wasteland.001|Icosphere.003|Dupli|185.0
+    2301318: Wasteland.001|Icosphere.003|Dupli|186.0
+    2301320: Wasteland.001|Icosphere.003|Dupli|187.0
+    2301322: Wasteland.001|Icosphere.003|Dupli|188.0
+    2301324: Wasteland.001|Icosphere.003|Dupli|189.0
+    2301326: Wasteland.001|Icosphere.003|Dupli|19.0
+    2301328: Wasteland.001|Icosphere.003|Dupli|190.0
+    2301330: Wasteland.001|Icosphere.003|Dupli|191.0
+    2301332: Wasteland.001|Icosphere.003|Dupli|192.0
+    2301334: Wasteland.001|Icosphere.003|Dupli|193.0
+    2301336: Wasteland.001|Icosphere.003|Dupli|194.0
+    2301338: Wasteland.001|Icosphere.003|Dupli|195.0
+    2301340: Wasteland.001|Icosphere.003|Dupli|196.0
+    2301342: Wasteland.001|Icosphere.003|Dupli|197.0
+    2301344: Wasteland.001|Icosphere.003|Dupli|198.0
+    2301346: Wasteland.001|Icosphere.003|Dupli|199.0
+    2301348: Wasteland.001|Icosphere.003|Dupli|2.0
+    2301350: Wasteland.001|Icosphere.003|Dupli|20.0
+    2301352: Wasteland.001|Icosphere.003|Dupli|21.0
+    2301354: Wasteland.001|Icosphere.003|Dupli|22.0
+    2301356: Wasteland.001|Icosphere.003|Dupli|23.0
+    2301358: Wasteland.001|Icosphere.003|Dupli|24.0
+    2301360: Wasteland.001|Icosphere.003|Dupli|25.0
+    2301362: Wasteland.001|Icosphere.003|Dupli|26.0
+    2301364: Wasteland.001|Icosphere.003|Dupli|27.0
+    2301366: Wasteland.001|Icosphere.003|Dupli|28.0
+    2301368: Wasteland.001|Icosphere.003|Dupli|29.0
+    2301370: Wasteland.001|Icosphere.003|Dupli|3.0
+    2301372: Wasteland.001|Icosphere.003|Dupli|30.0
+    2301374: Wasteland.001|Icosphere.003|Dupli|31.0
+    2301376: Wasteland.001|Icosphere.003|Dupli|32.0
+    2301378: Wasteland.001|Icosphere.003|Dupli|33.0
+    2301380: Wasteland.001|Icosphere.003|Dupli|34.0
+    2301382: Wasteland.001|Icosphere.003|Dupli|35.0
+    2301384: Wasteland.001|Icosphere.003|Dupli|36.0
+    2301386: Wasteland.001|Icosphere.003|Dupli|37.0
+    2301388: Wasteland.001|Icosphere.003|Dupli|38.0
+    2301390: Wasteland.001|Icosphere.003|Dupli|39.0
+    2301392: Wasteland.001|Icosphere.003|Dupli|4.0
+    2301394: Wasteland.001|Icosphere.003|Dupli|40.0
+    2301396: Wasteland.001|Icosphere.003|Dupli|41.0
+    2301398: Wasteland.001|Icosphere.003|Dupli|42.0
+    2301400: Wasteland.001|Icosphere.003|Dupli|43.0
+    2301402: Wasteland.001|Icosphere.003|Dupli|44.0
+    2301404: Wasteland.001|Icosphere.003|Dupli|45.0
+    2301406: Wasteland.001|Icosphere.003|Dupli|46.0
+    2301408: Wasteland.001|Icosphere.003|Dupli|47.0
+    2301410: Wasteland.001|Icosphere.003|Dupli|48.0
+    2301412: Wasteland.001|Icosphere.003|Dupli|49.0
+    2301414: Wasteland.001|Icosphere.003|Dupli|5.0
+    2301416: Wasteland.001|Icosphere.003|Dupli|50.0
+    2301418: Wasteland.001|Icosphere.003|Dupli|51.0
+    2301420: Wasteland.001|Icosphere.003|Dupli|52.0
+    2301422: Wasteland.001|Icosphere.003|Dupli|53.0
+    2301424: Wasteland.001|Icosphere.003|Dupli|54.0
+    2301426: Wasteland.001|Icosphere.003|Dupli|55.0
+    2301428: Wasteland.001|Icosphere.003|Dupli|56.0
+    2301430: Wasteland.001|Icosphere.003|Dupli|57.0
+    2301432: Wasteland.001|Icosphere.003|Dupli|58.0
+    2301434: Wasteland.001|Icosphere.003|Dupli|59.0
+    2301436: Wasteland.001|Icosphere.003|Dupli|6.0
+    2301438: Wasteland.001|Icosphere.003|Dupli|60.0
+    2301440: Wasteland.001|Icosphere.003|Dupli|61.0
+    2301442: Wasteland.001|Icosphere.003|Dupli|62.0
+    2301444: Wasteland.001|Icosphere.003|Dupli|63.0
+    2301446: Wasteland.001|Icosphere.003|Dupli|64.0
+    2301448: Wasteland.001|Icosphere.003|Dupli|65.0
+    2301450: Wasteland.001|Icosphere.003|Dupli|66.0
+    2301452: Wasteland.001|Icosphere.003|Dupli|67.0
+    2301454: Wasteland.001|Icosphere.003|Dupli|68.0
+    2301456: Wasteland.001|Icosphere.003|Dupli|69.0
+    2301458: Wasteland.001|Icosphere.003|Dupli|7.0
+    2301460: Wasteland.001|Icosphere.003|Dupli|70.0
+    2301462: Wasteland.001|Icosphere.003|Dupli|71.0
+    2301464: Wasteland.001|Icosphere.003|Dupli|72.0
+    2301466: Wasteland.001|Icosphere.003|Dupli|73.0
+    2301468: Wasteland.001|Icosphere.003|Dupli|74.0
+    2301470: Wasteland.001|Icosphere.003|Dupli|75.0
+    2301472: Wasteland.001|Icosphere.003|Dupli|76.0
+    2301474: Wasteland.001|Icosphere.003|Dupli|77.0
+    2301476: Wasteland.001|Icosphere.003|Dupli|78.0
+    2301478: Wasteland.001|Icosphere.003|Dupli|79.0
+    2301480: Wasteland.001|Icosphere.003|Dupli|8.0
+    2301482: Wasteland.001|Icosphere.003|Dupli|80.0
+    2301484: Wasteland.001|Icosphere.003|Dupli|81.0
+    2301486: Wasteland.001|Icosphere.003|Dupli|82.0
+    2301488: Wasteland.001|Icosphere.003|Dupli|83.0
+    2301490: Wasteland.001|Icosphere.003|Dupli|84.0
+    2301492: Wasteland.001|Icosphere.003|Dupli|85.0
+    2301494: Wasteland.001|Icosphere.003|Dupli|86.0
+    2301496: Wasteland.001|Icosphere.003|Dupli|87.0
+    2301498: Wasteland.001|Icosphere.003|Dupli|88.0
+    2301500: Wasteland.001|Icosphere.003|Dupli|89.0
+    2301502: Wasteland.001|Icosphere.003|Dupli|9.0
+    2301504: Wasteland.001|Icosphere.003|Dupli|90.0
+    2301506: Wasteland.001|Icosphere.003|Dupli|91.0
+    2301508: Wasteland.001|Icosphere.003|Dupli|92.0
+    2301510: Wasteland.001|Icosphere.003|Dupli|93.0
+    2301512: Wasteland.001|Icosphere.003|Dupli|94.0
+    2301514: Wasteland.001|Icosphere.003|Dupli|95.0
+    2301516: Wasteland.001|Icosphere.003|Dupli|96.0
+    2301518: Wasteland.001|Icosphere.003|Dupli|97.0
+    2301520: Wasteland.001|Icosphere.003|Dupli|98.0
+    2301522: Wasteland.001|Icosphere.003|Dupli|99.0
+    3300000: Cylinder
+    3300002: Cylinder.001
+    3300004: Cylinder.002
+    3300006: Cylinder.003
+    3300008: Cylinder.004
+    3300010: Cylinder.005
+    3300012: Cylinder.006
+    3300014: Cylinder.007
+    3300016: Cylinder.008
+    3300018: Cylinder.009
+    3300020: Cylinder.010
+    3300022: Cylinder.011
+    3300024: Cylinder.012
+    3300026: Cylinder.013
+    3300028: Cylinder.014
+    3300030: Cylinder.015
+    3300032: Cylinder.016
+    3300034: Cylinder.017
+    3300036: Cylinder.018
+    3300038: Cylinder.019
+    3300040: Cylinder.020
+    3300042: Cylinder.021
+    3300044: Cylinder.022
+    3300046: Cylinder.023
+    3300048: Cylinder.024
+    3300050: Cylinder.025
+    3300052: Cylinder.026
+    3300054: Cylinder.027
+    3300056: Cylinder.028
+    3300058: Cylinder.029
+    3300060: Cylinder.030
+    3300062: Cylinder.031
+    3300064: Cylinder.032
+    3300066: Cylinder.033
+    3300068: Cylinder.034
+    3300070: Cylinder.035
+    3300072: Cylinder.036
+    3300074: Cylinder.037
+    3300076: Cylinder.038
+    3300078: Cylinder.039
+    3300080: Cylinder.040
+    3300082: Cylinder.041
+    3300084: Cylinder.042
+    3300086: Cylinder.043
+    3300088: Cylinder.044
+    3300090: Cylinder.045
+    3300092: Cylinder.046
+    3300094: Cylinder.047
+    3300096: Cylinder.048
+    3300098: Cylinder.049
+    3300100: Cylinder.050
+    3300102: Cylinder.051
+    3300104: Cylinder.052
+    3300106: Cylinder.053
+    3300108: Cylinder.054
+    3300110: Cylinder.055
+    3300112: Cylinder.056
+    3300114: Cylinder.057
+    3300116: Cylinder.058
+    3300118: Cylinder.059
+    3300120: Cylinder.060
+    3300122: Cylinder.061
+    3300124: Cylinder.062
+    3300126: Cylinder.063
+    3300128: Cylinder.064
+    3300130: Cylinder.065
+    3300132: Cylinder.066
+    3300134: Cylinder.067
+    3300136: Cylinder.068
+    3300138: Cylinder.069
+    3300140: Cylinder.070
+    3300142: Cylinder.071
+    3300144: Cylinder.072
+    3300146: Cylinder.073
+    3300148: Cylinder.074
+    3300150: Cylinder.075
+    3300152: Cylinder.076
+    3300154: Cylinder.077
+    3300156: Cylinder.078
+    3300158: Cylinder.079
+    3300160: Cylinder.080
+    3300162: Cylinder.081
+    3300164: Cylinder.082
+    3300166: Cylinder.083
+    3300168: Cylinder.084
+    3300170: Cylinder.085
+    3300172: Cylinder.086
+    3300174: Cylinder.087
+    3300176: Cylinder.088
+    3300178: Cylinder.089
+    3300180: Cylinder.090
+    3300182: Cylinder.091
+    3300184: Cylinder.092
+    3300186: Cylinder.093
+    3300188: Cylinder.094
+    3300190: Cylinder.095
+    3300192: Cylinder.096
+    3300194: Cylinder.097
+    3300196: Cylinder.098
+    3300198: Cylinder.099
+    3300200: Cylinder.100
+    3300202: Cylinder.101
+    3300204: Cylinder.102
+    3300206: Cylinder.103
+    3300208: Cylinder.104
+    3300210: Cylinder.105
+    3300212: Cylinder.106
+    3300214: Cylinder.107
+    3300216: Cylinder.108
+    3300218: Cylinder.109
+    3300220: Cylinder.110
+    3300222: Cylinder.111
+    3300224: Cylinder.112
+    3300226: Cylinder.113
+    3300228: Cylinder.114
+    3300230: Cylinder.115
+    3300232: Cylinder.116
+    3300234: Cylinder.117
+    3300236: Cylinder.118
+    3300238: Cylinder.119
+    3300240: Cylinder.120
+    3300242: Cylinder.121
+    3300244: Cylinder.122
+    3300246: Cylinder.123
+    3300248: Cylinder.124
+    3300250: Cylinder.125
+    3300252: Cylinder.126
+    3300254: Cylinder.127
+    3300256: Cylinder.128
+    3300258: Cylinder.129
+    3300260: Cylinder.130
+    3300262: Cylinder.131
+    3300264: Cylinder.132
+    3300266: Cylinder.133
+    3300268: Cylinder.134
+    3300270: Cylinder.135
+    3300272: Cylinder.136
+    3300274: Cylinder.137
+    3300276: Cylinder.138
+    3300278: Cylinder.139
+    3300280: Cylinder.140
+    3300282: Cylinder.141
+    3300284: Cylinder.142
+    3300286: Cylinder.143
+    3300288: Cylinder.144
+    3300290: Cylinder.145
+    3300292: Cylinder.146
+    3300294: Cylinder.147
+    3300296: Cylinder.148
+    3300298: Cylinder.149
+    3300300: Cylinder.150
+    3300302: Cylinder.151
+    3300304: Cylinder.152
+    3300306: Cylinder.153
+    3300308: Cylinder.154
+    3300310: Cylinder.155
+    3300312: Cylinder.156
+    3300314: Cylinder.157
+    3300316: Cylinder.158
+    3300318: Cylinder.159
+    3300320: Cylinder.160
+    3300322: Cylinder.161
+    3300324: Cylinder.162
+    3300326: Cylinder.163
+    3300328: Cylinder.164
+    3300330: Cylinder.165
+    3300332: Cylinder.166
+    3300334: Cylinder.167
+    3300336: Cylinder.168
+    3300338: Cylinder.169
+    3300340: Cylinder.170
+    3300342: Cylinder.171
+    3300344: Cylinder.172
+    3300346: Cylinder.173
+    3300348: Cylinder.174
+    3300350: Cylinder.175
+    3300352: Desert LandScape
+    3300354: Icosphere.000
+    3300356: Icosphere.001
+    3300358: Icosphere.002
+    3300360: Icosphere.003
+    3300362: Icosphere.004
+    3300364: Icosphere.005
+    3300366: Icosphere.006
+    3300368: Icosphere.007
+    3300370: Icosphere.008
+    3300372: Icosphere.009
+    3300374: Icosphere.010
+    3300376: Icosphere.011
+    3300378: Icosphere.012
+    3300380: Icosphere.013
+    3300382: Icosphere.014
+    3300384: Icosphere.015
+    3300386: Icosphere.016
+    3300388: Icosphere.017
+    3300390: Icosphere.018
+    3300392: Icosphere.019
+    3300394: Icosphere.020
+    3300396: Icosphere.021
+    3300398: Icosphere.022
+    3300400: Icosphere.023
+    3300402: Icosphere.024
+    3300404: Icosphere.025
+    3300406: Icosphere.026
+    3300408: Icosphere.027
+    3300410: Icosphere.028
+    3300412: Icosphere.029
+    3300414: Icosphere.030
+    3300416: Icosphere.031
+    3300418: Icosphere.032
+    3300420: Icosphere.033
+    3300422: Icosphere.034
+    3300424: Icosphere.035
+    3300426: Icosphere.036
+    3300428: Icosphere.037
+    3300430: Icosphere.038
+    3300432: Icosphere.039
+    3300434: Icosphere.040
+    3300436: Icosphere.041
+    3300438: Icosphere.042
+    3300440: Icosphere.043
+    3300442: Icosphere.044
+    3300444: Icosphere.045
+    3300446: Icosphere.046
+    3300448: Icosphere.047
+    3300450: Icosphere.048
+    3300452: Icosphere.049
+    3300454: Icosphere.050
+    3300456: Icosphere.051
+    3300458: Icosphere.052
+    3300460: Icosphere.053
+    3300462: Icosphere.054
+    3300464: Icosphere.055
+    3300466: Icosphere.056
+    3300468: Icosphere.057
+    3300470: Icosphere.058
+    3300472: Icosphere.059
+    3300474: Icosphere.060
+    3300476: Icosphere.061
+    3300478: Icosphere.062
+    3300480: Icosphere.063
+    3300482: Icosphere.064
+    3300484: Icosphere.065
+    3300486: Icosphere.066
+    3300488: Icosphere.067
+    3300490: Icosphere.068
+    3300492: Icosphere.069
+    3300494: Icosphere.070
+    3300496: Icosphere.071
+    3300498: Icosphere.072
+    3300500: Icosphere.073
+    3300502: Icosphere.074
+    3300504: Icosphere.075
+    3300506: Icosphere.076
+    3300508: Icosphere.077
+    3300510: Icosphere.078
+    3300512: Icosphere.079
+    3300514: Icosphere.080
+    3300516: Icosphere.081
+    3300518: Icosphere.082
+    3300520: Icosphere.083
+    3300522: Icosphere.084
+    3300524: Icosphere.085
+    3300526: Icosphere.086
+    3300528: Icosphere.087
+    3300530: Icosphere.088
+    3300532: Icosphere.089
+    3300534: Icosphere.090
+    3300536: Icosphere.091
+    3300538: Icosphere.092
+    3300540: Icosphere.093
+    3300542: Icosphere.094
+    3300544: Icosphere.095
+    3300546: Icosphere.096
+    3300548: Icosphere.097
+    3300550: Icosphere.098
+    3300552: Icosphere.099
+    3300554: Icosphere.100
+    3300556: Icosphere.101
+    3300558: Icosphere.102
+    3300560: Icosphere.103
+    3300562: Icosphere.104
+    3300564: Icosphere.105
+    3300566: Icosphere.106
+    3300568: Icosphere.107
+    3300570: Icosphere.108
+    3300572: Icosphere.109
+    3300574: Icosphere.110
+    3300576: Icosphere.111
+    3300578: Icosphere.112
+    3300580: Icosphere.113
+    3300582: Icosphere.114
+    3300584: Icosphere.115
+    3300586: Icosphere.116
+    3300588: Icosphere.117
+    3300590: Icosphere.118
+    3300592: Icosphere.119
+    3300594: Icosphere.120
+    3300596: Icosphere.121
+    3300598: Icosphere.122
+    3300600: Icosphere.123
+    3300602: Icosphere.124
+    3300604: Icosphere.125
+    3300606: Icosphere.126
+    3300608: Icosphere.127
+    3300610: Icosphere.128
+    3300612: Icosphere.129
+    3300614: Icosphere.130
+    3300616: Icosphere.131
+    3300618: Icosphere.132
+    3300620: Icosphere.133
+    3300622: Icosphere.134
+    3300624: Icosphere.135
+    3300626: Icosphere.136
+    3300628: Icosphere.137
+    3300630: Icosphere.138
+    3300632: Icosphere.139
+    3300634: Icosphere.140
+    3300636: Icosphere.141
+    3300638: Icosphere.142
+    3300640: Icosphere.143
+    3300642: Icosphere.144
+    3300644: Icosphere.145
+    3300646: Icosphere.146
+    3300648: Icosphere.147
+    3300650: Icosphere.148
+    3300652: Icosphere.149
+    3300654: Icosphere.150
+    3300656: Icosphere.151
+    3300658: Icosphere.152
+    3300660: Icosphere.153
+    3300662: Icosphere.154
+    3300664: Icosphere.155
+    3300666: Icosphere.156
+    3300668: Icosphere.157
+    3300670: Icosphere.158
+    3300672: Icosphere.159
+    3300674: Icosphere.160
+    3300676: Icosphere.161
+    3300678: Icosphere.162
+    3300680: Icosphere.163
+    3300682: Icosphere.164
+    3300684: Icosphere.165
+    3300686: Icosphere.166
+    3300688: Icosphere.167
+    3300690: Icosphere.168
+    3300692: Icosphere.169
+    3300694: Icosphere.170
+    3300696: Icosphere.171
+    3300698: Icosphere.172
+    3300700: Icosphere.173
+    3300702: Icosphere.174
+    3300704: Icosphere.175
+    3300706: Icosphere.176
+    3300708: Icosphere.177
+    3300710: Icosphere.178
+    3300712: Icosphere.179
+    3300714: Icosphere.180
+    3300716: Icosphere.181
+    3300718: Icosphere.182
+    3300720: Icosphere.183
+    3300722: Icosphere.184
+    3300724: Icosphere.185
+    3300726: Icosphere.186
+    3300728: Icosphere.187
+    3300730: Icosphere.188
+    3300732: Icosphere.189
+    3300734: Icosphere.190
+    3300736: Icosphere.191
+    3300738: Icosphere.192
+    3300740: Icosphere.193
+    3300742: Icosphere.194
+    3300744: Icosphere.195
+    3300746: Icosphere.196
+    3300748: Icosphere.197
+    3300750: Icosphere.198
+    3300752: Icosphere.199
+    3300754: Icosphere.200
+    3300756: Icosphere.201
+    3300758: Icosphere.202
+    3300760: Icosphere.203
+    3300762: Icosphere.204
+    3300764: Icosphere.205
+    3300766: Snow land
+    3300768: Snow land.001
+    3300770: Snow land.001|Cylinder|Dupli|0.0
+    3300772: Snow land.001|Cylinder|Dupli|1.0
+    3300774: Snow land.001|Cylinder|Dupli|10.0
+    3300776: Snow land.001|Cylinder|Dupli|100.0
+    3300778: Snow land.001|Cylinder|Dupli|101.0
+    3300780: Snow land.001|Cylinder|Dupli|102.0
+    3300782: Snow land.001|Cylinder|Dupli|103.0
+    3300784: Snow land.001|Cylinder|Dupli|104.0
+    3300786: Snow land.001|Cylinder|Dupli|105.0
+    3300788: Snow land.001|Cylinder|Dupli|106.0
+    3300790: Snow land.001|Cylinder|Dupli|107.0
+    3300792: Snow land.001|Cylinder|Dupli|108.0
+    3300794: Snow land.001|Cylinder|Dupli|109.0
+    3300796: Snow land.001|Cylinder|Dupli|11.0
+    3300798: Snow land.001|Cylinder|Dupli|110.0
+    3300800: Snow land.001|Cylinder|Dupli|111.0
+    3300802: Snow land.001|Cylinder|Dupli|112.0
+    3300804: Snow land.001|Cylinder|Dupli|113.0
+    3300806: Snow land.001|Cylinder|Dupli|114.0
+    3300808: Snow land.001|Cylinder|Dupli|115.0
+    3300810: Snow land.001|Cylinder|Dupli|116.0
+    3300812: Snow land.001|Cylinder|Dupli|117.0
+    3300814: Snow land.001|Cylinder|Dupli|118.0
+    3300816: Snow land.001|Cylinder|Dupli|119.0
+    3300818: Snow land.001|Cylinder|Dupli|12.0
+    3300820: Snow land.001|Cylinder|Dupli|120.0
+    3300822: Snow land.001|Cylinder|Dupli|121.0
+    3300824: Snow land.001|Cylinder|Dupli|122.0
+    3300826: Snow land.001|Cylinder|Dupli|123.0
+    3300828: Snow land.001|Cylinder|Dupli|124.0
+    3300830: Snow land.001|Cylinder|Dupli|125.0
+    3300832: Snow land.001|Cylinder|Dupli|126.0
+    3300834: Snow land.001|Cylinder|Dupli|127.0
+    3300836: Snow land.001|Cylinder|Dupli|128.0
+    3300838: Snow land.001|Cylinder|Dupli|129.0
+    3300840: Snow land.001|Cylinder|Dupli|13.0
+    3300842: Snow land.001|Cylinder|Dupli|130.0
+    3300844: Snow land.001|Cylinder|Dupli|131.0
+    3300846: Snow land.001|Cylinder|Dupli|132.0
+    3300848: Snow land.001|Cylinder|Dupli|133.0
+    3300850: Snow land.001|Cylinder|Dupli|134.0
+    3300852: Snow land.001|Cylinder|Dupli|135.0
+    3300854: Snow land.001|Cylinder|Dupli|136.0
+    3300856: Snow land.001|Cylinder|Dupli|137.0
+    3300858: Snow land.001|Cylinder|Dupli|138.0
+    3300860: Snow land.001|Cylinder|Dupli|139.0
+    3300862: Snow land.001|Cylinder|Dupli|14.0
+    3300864: Snow land.001|Cylinder|Dupli|140.0
+    3300866: Snow land.001|Cylinder|Dupli|141.0
+    3300868: Snow land.001|Cylinder|Dupli|142.0
+    3300870: Snow land.001|Cylinder|Dupli|143.0
+    3300872: Snow land.001|Cylinder|Dupli|144.0
+    3300874: Snow land.001|Cylinder|Dupli|145.0
+    3300876: Snow land.001|Cylinder|Dupli|146.0
+    3300878: Snow land.001|Cylinder|Dupli|147.0
+    3300880: Snow land.001|Cylinder|Dupli|148.0
+    3300882: Snow land.001|Cylinder|Dupli|149.0
+    3300884: Snow land.001|Cylinder|Dupli|15.0
+    3300886: Snow land.001|Cylinder|Dupli|150.0
+    3300888: Snow land.001|Cylinder|Dupli|151.0
+    3300890: Snow land.001|Cylinder|Dupli|152.0
+    3300892: Snow land.001|Cylinder|Dupli|153.0
+    3300894: Snow land.001|Cylinder|Dupli|154.0
+    3300896: Snow land.001|Cylinder|Dupli|155.0
+    3300898: Snow land.001|Cylinder|Dupli|156.0
+    3300900: Snow land.001|Cylinder|Dupli|157.0
+    3300902: Snow land.001|Cylinder|Dupli|158.0
+    3300904: Snow land.001|Cylinder|Dupli|159.0
+    3300906: Snow land.001|Cylinder|Dupli|16.0
+    3300908: Snow land.001|Cylinder|Dupli|160.0
+    3300910: Snow land.001|Cylinder|Dupli|161.0
+    3300912: Snow land.001|Cylinder|Dupli|162.0
+    3300914: Snow land.001|Cylinder|Dupli|163.0
+    3300916: Snow land.001|Cylinder|Dupli|164.0
+    3300918: Snow land.001|Cylinder|Dupli|165.0
+    3300920: Snow land.001|Cylinder|Dupli|166.0
+    3300922: Snow land.001|Cylinder|Dupli|167.0
+    3300924: Snow land.001|Cylinder|Dupli|168.0
+    3300926: Snow land.001|Cylinder|Dupli|169.0
+    3300928: Snow land.001|Cylinder|Dupli|17.0
+    3300930: Snow land.001|Cylinder|Dupli|170.0
+    3300932: Snow land.001|Cylinder|Dupli|171.0
+    3300934: Snow land.001|Cylinder|Dupli|172.0
+    3300936: Snow land.001|Cylinder|Dupli|173.0
+    3300938: Snow land.001|Cylinder|Dupli|174.0
+    3300940: Snow land.001|Cylinder|Dupli|18.0
+    3300942: Snow land.001|Cylinder|Dupli|19.0
+    3300944: Snow land.001|Cylinder|Dupli|2.0
+    3300946: Snow land.001|Cylinder|Dupli|20.0
+    3300948: Snow land.001|Cylinder|Dupli|21.0
+    3300950: Snow land.001|Cylinder|Dupli|22.0
+    3300952: Snow land.001|Cylinder|Dupli|23.0
+    3300954: Snow land.001|Cylinder|Dupli|24.0
+    3300956: Snow land.001|Cylinder|Dupli|25.0
+    3300958: Snow land.001|Cylinder|Dupli|26.0
+    3300960: Snow land.001|Cylinder|Dupli|27.0
+    3300962: Snow land.001|Cylinder|Dupli|28.0
+    3300964: Snow land.001|Cylinder|Dupli|29.0
+    3300966: Snow land.001|Cylinder|Dupli|3.0
+    3300968: Snow land.001|Cylinder|Dupli|30.0
+    3300970: Snow land.001|Cylinder|Dupli|31.0
+    3300972: Snow land.001|Cylinder|Dupli|32.0
+    3300974: Snow land.001|Cylinder|Dupli|33.0
+    3300976: Snow land.001|Cylinder|Dupli|34.0
+    3300978: Snow land.001|Cylinder|Dupli|35.0
+    3300980: Snow land.001|Cylinder|Dupli|36.0
+    3300982: Snow land.001|Cylinder|Dupli|37.0
+    3300984: Snow land.001|Cylinder|Dupli|38.0
+    3300986: Snow land.001|Cylinder|Dupli|39.0
+    3300988: Snow land.001|Cylinder|Dupli|4.0
+    3300990: Snow land.001|Cylinder|Dupli|40.0
+    3300992: Snow land.001|Cylinder|Dupli|41.0
+    3300994: Snow land.001|Cylinder|Dupli|42.0
+    3300996: Snow land.001|Cylinder|Dupli|43.0
+    3300998: Snow land.001|Cylinder|Dupli|44.0
+    3301000: Snow land.001|Cylinder|Dupli|45.0
+    3301002: Snow land.001|Cylinder|Dupli|46.0
+    3301004: Snow land.001|Cylinder|Dupli|47.0
+    3301006: Snow land.001|Cylinder|Dupli|48.0
+    3301008: Snow land.001|Cylinder|Dupli|49.0
+    3301010: Snow land.001|Cylinder|Dupli|5.0
+    3301012: Snow land.001|Cylinder|Dupli|50.0
+    3301014: Snow land.001|Cylinder|Dupli|51.0
+    3301016: Snow land.001|Cylinder|Dupli|52.0
+    3301018: Snow land.001|Cylinder|Dupli|53.0
+    3301020: Snow land.001|Cylinder|Dupli|54.0
+    3301022: Snow land.001|Cylinder|Dupli|55.0
+    3301024: Snow land.001|Cylinder|Dupli|56.0
+    3301026: Snow land.001|Cylinder|Dupli|57.0
+    3301028: Snow land.001|Cylinder|Dupli|58.0
+    3301030: Snow land.001|Cylinder|Dupli|59.0
+    3301032: Snow land.001|Cylinder|Dupli|6.0
+    3301034: Snow land.001|Cylinder|Dupli|60.0
+    3301036: Snow land.001|Cylinder|Dupli|61.0
+    3301038: Snow land.001|Cylinder|Dupli|62.0
+    3301040: Snow land.001|Cylinder|Dupli|63.0
+    3301042: Snow land.001|Cylinder|Dupli|64.0
+    3301044: Snow land.001|Cylinder|Dupli|65.0
+    3301046: Snow land.001|Cylinder|Dupli|66.0
+    3301048: Snow land.001|Cylinder|Dupli|67.0
+    3301050: Snow land.001|Cylinder|Dupli|68.0
+    3301052: Snow land.001|Cylinder|Dupli|69.0
+    3301054: Snow land.001|Cylinder|Dupli|7.0
+    3301056: Snow land.001|Cylinder|Dupli|70.0
+    3301058: Snow land.001|Cylinder|Dupli|71.0
+    3301060: Snow land.001|Cylinder|Dupli|72.0
+    3301062: Snow land.001|Cylinder|Dupli|73.0
+    3301064: Snow land.001|Cylinder|Dupli|74.0
+    3301066: Snow land.001|Cylinder|Dupli|75.0
+    3301068: Snow land.001|Cylinder|Dupli|76.0
+    3301070: Snow land.001|Cylinder|Dupli|77.0
+    3301072: Snow land.001|Cylinder|Dupli|78.0
+    3301074: Snow land.001|Cylinder|Dupli|79.0
+    3301076: Snow land.001|Cylinder|Dupli|8.0
+    3301078: Snow land.001|Cylinder|Dupli|80.0
+    3301080: Snow land.001|Cylinder|Dupli|81.0
+    3301082: Snow land.001|Cylinder|Dupli|82.0
+    3301084: Snow land.001|Cylinder|Dupli|83.0
+    3301086: Snow land.001|Cylinder|Dupli|84.0
+    3301088: Snow land.001|Cylinder|Dupli|85.0
+    3301090: Snow land.001|Cylinder|Dupli|86.0
+    3301092: Snow land.001|Cylinder|Dupli|87.0
+    3301094: Snow land.001|Cylinder|Dupli|88.0
+    3301096: Snow land.001|Cylinder|Dupli|89.0
+    3301098: Snow land.001|Cylinder|Dupli|9.0
+    3301100: Snow land.001|Cylinder|Dupli|90.0
+    3301102: Snow land.001|Cylinder|Dupli|91.0
+    3301104: Snow land.001|Cylinder|Dupli|92.0
+    3301106: Snow land.001|Cylinder|Dupli|93.0
+    3301108: Snow land.001|Cylinder|Dupli|94.0
+    3301110: Snow land.001|Cylinder|Dupli|95.0
+    3301112: Snow land.001|Cylinder|Dupli|96.0
+    3301114: Snow land.001|Cylinder|Dupli|97.0
+    3301116: Snow land.001|Cylinder|Dupli|98.0
+    3301118: Snow land.001|Cylinder|Dupli|99.0
+    3301120: Wasteland
+    3301122: Wasteland.001
+    3301124: Wasteland.001|Icosphere.003|Dupli|0.0
+    3301126: Wasteland.001|Icosphere.003|Dupli|1.0
+    3301128: Wasteland.001|Icosphere.003|Dupli|10.0
+    3301130: Wasteland.001|Icosphere.003|Dupli|100.0
+    3301132: Wasteland.001|Icosphere.003|Dupli|101.0
+    3301134: Wasteland.001|Icosphere.003|Dupli|102.0
+    3301136: Wasteland.001|Icosphere.003|Dupli|103.0
+    3301138: Wasteland.001|Icosphere.003|Dupli|104.0
+    3301140: Wasteland.001|Icosphere.003|Dupli|105.0
+    3301142: Wasteland.001|Icosphere.003|Dupli|106.0
+    3301144: Wasteland.001|Icosphere.003|Dupli|107.0
+    3301146: Wasteland.001|Icosphere.003|Dupli|108.0
+    3301148: Wasteland.001|Icosphere.003|Dupli|109.0
+    3301150: Wasteland.001|Icosphere.003|Dupli|11.0
+    3301152: Wasteland.001|Icosphere.003|Dupli|110.0
+    3301154: Wasteland.001|Icosphere.003|Dupli|111.0
+    3301156: Wasteland.001|Icosphere.003|Dupli|112.0
+    3301158: Wasteland.001|Icosphere.003|Dupli|113.0
+    3301160: Wasteland.001|Icosphere.003|Dupli|114.0
+    3301162: Wasteland.001|Icosphere.003|Dupli|115.0
+    3301164: Wasteland.001|Icosphere.003|Dupli|116.0
+    3301166: Wasteland.001|Icosphere.003|Dupli|117.0
+    3301168: Wasteland.001|Icosphere.003|Dupli|118.0
+    3301170: Wasteland.001|Icosphere.003|Dupli|119.0
+    3301172: Wasteland.001|Icosphere.003|Dupli|12.0
+    3301174: Wasteland.001|Icosphere.003|Dupli|120.0
+    3301176: Wasteland.001|Icosphere.003|Dupli|121.0
+    3301178: Wasteland.001|Icosphere.003|Dupli|122.0
+    3301180: Wasteland.001|Icosphere.003|Dupli|123.0
+    3301182: Wasteland.001|Icosphere.003|Dupli|124.0
+    3301184: Wasteland.001|Icosphere.003|Dupli|125.0
+    3301186: Wasteland.001|Icosphere.003|Dupli|126.0
+    3301188: Wasteland.001|Icosphere.003|Dupli|127.0
+    3301190: Wasteland.001|Icosphere.003|Dupli|128.0
+    3301192: Wasteland.001|Icosphere.003|Dupli|129.0
+    3301194: Wasteland.001|Icosphere.003|Dupli|13.0
+    3301196: Wasteland.001|Icosphere.003|Dupli|130.0
+    3301198: Wasteland.001|Icosphere.003|Dupli|131.0
+    3301200: Wasteland.001|Icosphere.003|Dupli|132.0
+    3301202: Wasteland.001|Icosphere.003|Dupli|133.0
+    3301204: Wasteland.001|Icosphere.003|Dupli|134.0
+    3301206: Wasteland.001|Icosphere.003|Dupli|135.0
+    3301208: Wasteland.001|Icosphere.003|Dupli|136.0
+    3301210: Wasteland.001|Icosphere.003|Dupli|137.0
+    3301212: Wasteland.001|Icosphere.003|Dupli|138.0
+    3301214: Wasteland.001|Icosphere.003|Dupli|139.0
+    3301216: Wasteland.001|Icosphere.003|Dupli|14.0
+    3301218: Wasteland.001|Icosphere.003|Dupli|140.0
+    3301220: Wasteland.001|Icosphere.003|Dupli|141.0
+    3301222: Wasteland.001|Icosphere.003|Dupli|142.0
+    3301224: Wasteland.001|Icosphere.003|Dupli|143.0
+    3301226: Wasteland.001|Icosphere.003|Dupli|144.0
+    3301228: Wasteland.001|Icosphere.003|Dupli|145.0
+    3301230: Wasteland.001|Icosphere.003|Dupli|146.0
+    3301232: Wasteland.001|Icosphere.003|Dupli|147.0
+    3301234: Wasteland.001|Icosphere.003|Dupli|148.0
+    3301236: Wasteland.001|Icosphere.003|Dupli|149.0
+    3301238: Wasteland.001|Icosphere.003|Dupli|15.0
+    3301240: Wasteland.001|Icosphere.003|Dupli|150.0
+    3301242: Wasteland.001|Icosphere.003|Dupli|151.0
+    3301244: Wasteland.001|Icosphere.003|Dupli|152.0
+    3301246: Wasteland.001|Icosphere.003|Dupli|153.0
+    3301248: Wasteland.001|Icosphere.003|Dupli|154.0
+    3301250: Wasteland.001|Icosphere.003|Dupli|155.0
+    3301252: Wasteland.001|Icosphere.003|Dupli|156.0
+    3301254: Wasteland.001|Icosphere.003|Dupli|157.0
+    3301256: Wasteland.001|Icosphere.003|Dupli|158.0
+    3301258: Wasteland.001|Icosphere.003|Dupli|159.0
+    3301260: Wasteland.001|Icosphere.003|Dupli|16.0
+    3301262: Wasteland.001|Icosphere.003|Dupli|160.0
+    3301264: Wasteland.001|Icosphere.003|Dupli|161.0
+    3301266: Wasteland.001|Icosphere.003|Dupli|162.0
+    3301268: Wasteland.001|Icosphere.003|Dupli|163.0
+    3301270: Wasteland.001|Icosphere.003|Dupli|164.0
+    3301272: Wasteland.001|Icosphere.003|Dupli|165.0
+    3301274: Wasteland.001|Icosphere.003|Dupli|166.0
+    3301276: Wasteland.001|Icosphere.003|Dupli|167.0
+    3301278: Wasteland.001|Icosphere.003|Dupli|168.0
+    3301280: Wasteland.001|Icosphere.003|Dupli|169.0
+    3301282: Wasteland.001|Icosphere.003|Dupli|17.0
+    3301284: Wasteland.001|Icosphere.003|Dupli|170.0
+    3301286: Wasteland.001|Icosphere.003|Dupli|171.0
+    3301288: Wasteland.001|Icosphere.003|Dupli|172.0
+    3301290: Wasteland.001|Icosphere.003|Dupli|173.0
+    3301292: Wasteland.001|Icosphere.003|Dupli|174.0
+    3301294: Wasteland.001|Icosphere.003|Dupli|175.0
+    3301296: Wasteland.001|Icosphere.003|Dupli|176.0
+    3301298: Wasteland.001|Icosphere.003|Dupli|177.0
+    3301300: Wasteland.001|Icosphere.003|Dupli|178.0
+    3301302: Wasteland.001|Icosphere.003|Dupli|179.0
+    3301304: Wasteland.001|Icosphere.003|Dupli|18.0
+    3301306: Wasteland.001|Icosphere.003|Dupli|180.0
+    3301308: Wasteland.001|Icosphere.003|Dupli|181.0
+    3301310: Wasteland.001|Icosphere.003|Dupli|182.0
+    3301312: Wasteland.001|Icosphere.003|Dupli|183.0
+    3301314: Wasteland.001|Icosphere.003|Dupli|184.0
+    3301316: Wasteland.001|Icosphere.003|Dupli|185.0
+    3301318: Wasteland.001|Icosphere.003|Dupli|186.0
+    3301320: Wasteland.001|Icosphere.003|Dupli|187.0
+    3301322: Wasteland.001|Icosphere.003|Dupli|188.0
+    3301324: Wasteland.001|Icosphere.003|Dupli|189.0
+    3301326: Wasteland.001|Icosphere.003|Dupli|19.0
+    3301328: Wasteland.001|Icosphere.003|Dupli|190.0
+    3301330: Wasteland.001|Icosphere.003|Dupli|191.0
+    3301332: Wasteland.001|Icosphere.003|Dupli|192.0
+    3301334: Wasteland.001|Icosphere.003|Dupli|193.0
+    3301336: Wasteland.001|Icosphere.003|Dupli|194.0
+    3301338: Wasteland.001|Icosphere.003|Dupli|195.0
+    3301340: Wasteland.001|Icosphere.003|Dupli|196.0
+    3301342: Wasteland.001|Icosphere.003|Dupli|197.0
+    3301344: Wasteland.001|Icosphere.003|Dupli|198.0
+    3301346: Wasteland.001|Icosphere.003|Dupli|199.0
+    3301348: Wasteland.001|Icosphere.003|Dupli|2.0
+    3301350: Wasteland.001|Icosphere.003|Dupli|20.0
+    3301352: Wasteland.001|Icosphere.003|Dupli|21.0
+    3301354: Wasteland.001|Icosphere.003|Dupli|22.0
+    3301356: Wasteland.001|Icosphere.003|Dupli|23.0
+    3301358: Wasteland.001|Icosphere.003|Dupli|24.0
+    3301360: Wasteland.001|Icosphere.003|Dupli|25.0
+    3301362: Wasteland.001|Icosphere.003|Dupli|26.0
+    3301364: Wasteland.001|Icosphere.003|Dupli|27.0
+    3301366: Wasteland.001|Icosphere.003|Dupli|28.0
+    3301368: Wasteland.001|Icosphere.003|Dupli|29.0
+    3301370: Wasteland.001|Icosphere.003|Dupli|3.0
+    3301372: Wasteland.001|Icosphere.003|Dupli|30.0
+    3301374: Wasteland.001|Icosphere.003|Dupli|31.0
+    3301376: Wasteland.001|Icosphere.003|Dupli|32.0
+    3301378: Wasteland.001|Icosphere.003|Dupli|33.0
+    3301380: Wasteland.001|Icosphere.003|Dupli|34.0
+    3301382: Wasteland.001|Icosphere.003|Dupli|35.0
+    3301384: Wasteland.001|Icosphere.003|Dupli|36.0
+    3301386: Wasteland.001|Icosphere.003|Dupli|37.0
+    3301388: Wasteland.001|Icosphere.003|Dupli|38.0
+    3301390: Wasteland.001|Icosphere.003|Dupli|39.0
+    3301392: Wasteland.001|Icosphere.003|Dupli|4.0
+    3301394: Wasteland.001|Icosphere.003|Dupli|40.0
+    3301396: Wasteland.001|Icosphere.003|Dupli|41.0
+    3301398: Wasteland.001|Icosphere.003|Dupli|42.0
+    3301400: Wasteland.001|Icosphere.003|Dupli|43.0
+    3301402: Wasteland.001|Icosphere.003|Dupli|44.0
+    3301404: Wasteland.001|Icosphere.003|Dupli|45.0
+    3301406: Wasteland.001|Icosphere.003|Dupli|46.0
+    3301408: Wasteland.001|Icosphere.003|Dupli|47.0
+    3301410: Wasteland.001|Icosphere.003|Dupli|48.0
+    3301412: Wasteland.001|Icosphere.003|Dupli|49.0
+    3301414: Wasteland.001|Icosphere.003|Dupli|5.0
+    3301416: Wasteland.001|Icosphere.003|Dupli|50.0
+    3301418: Wasteland.001|Icosphere.003|Dupli|51.0
+    3301420: Wasteland.001|Icosphere.003|Dupli|52.0
+    3301422: Wasteland.001|Icosphere.003|Dupli|53.0
+    3301424: Wasteland.001|Icosphere.003|Dupli|54.0
+    3301426: Wasteland.001|Icosphere.003|Dupli|55.0
+    3301428: Wasteland.001|Icosphere.003|Dupli|56.0
+    3301430: Wasteland.001|Icosphere.003|Dupli|57.0
+    3301432: Wasteland.001|Icosphere.003|Dupli|58.0
+    3301434: Wasteland.001|Icosphere.003|Dupli|59.0
+    3301436: Wasteland.001|Icosphere.003|Dupli|6.0
+    3301438: Wasteland.001|Icosphere.003|Dupli|60.0
+    3301440: Wasteland.001|Icosphere.003|Dupli|61.0
+    3301442: Wasteland.001|Icosphere.003|Dupli|62.0
+    3301444: Wasteland.001|Icosphere.003|Dupli|63.0
+    3301446: Wasteland.001|Icosphere.003|Dupli|64.0
+    3301448: Wasteland.001|Icosphere.003|Dupli|65.0
+    3301450: Wasteland.001|Icosphere.003|Dupli|66.0
+    3301452: Wasteland.001|Icosphere.003|Dupli|67.0
+    3301454: Wasteland.001|Icosphere.003|Dupli|68.0
+    3301456: Wasteland.001|Icosphere.003|Dupli|69.0
+    3301458: Wasteland.001|Icosphere.003|Dupli|7.0
+    3301460: Wasteland.001|Icosphere.003|Dupli|70.0
+    3301462: Wasteland.001|Icosphere.003|Dupli|71.0
+    3301464: Wasteland.001|Icosphere.003|Dupli|72.0
+    3301466: Wasteland.001|Icosphere.003|Dupli|73.0
+    3301468: Wasteland.001|Icosphere.003|Dupli|74.0
+    3301470: Wasteland.001|Icosphere.003|Dupli|75.0
+    3301472: Wasteland.001|Icosphere.003|Dupli|76.0
+    3301474: Wasteland.001|Icosphere.003|Dupli|77.0
+    3301476: Wasteland.001|Icosphere.003|Dupli|78.0
+    3301478: Wasteland.001|Icosphere.003|Dupli|79.0
+    3301480: Wasteland.001|Icosphere.003|Dupli|8.0
+    3301482: Wasteland.001|Icosphere.003|Dupli|80.0
+    3301484: Wasteland.001|Icosphere.003|Dupli|81.0
+    3301486: Wasteland.001|Icosphere.003|Dupli|82.0
+    3301488: Wasteland.001|Icosphere.003|Dupli|83.0
+    3301490: Wasteland.001|Icosphere.003|Dupli|84.0
+    3301492: Wasteland.001|Icosphere.003|Dupli|85.0
+    3301494: Wasteland.001|Icosphere.003|Dupli|86.0
+    3301496: Wasteland.001|Icosphere.003|Dupli|87.0
+    3301498: Wasteland.001|Icosphere.003|Dupli|88.0
+    3301500: Wasteland.001|Icosphere.003|Dupli|89.0
+    3301502: Wasteland.001|Icosphere.003|Dupli|9.0
+    3301504: Wasteland.001|Icosphere.003|Dupli|90.0
+    3301506: Wasteland.001|Icosphere.003|Dupli|91.0
+    3301508: Wasteland.001|Icosphere.003|Dupli|92.0
+    3301510: Wasteland.001|Icosphere.003|Dupli|93.0
+    3301512: Wasteland.001|Icosphere.003|Dupli|94.0
+    3301514: Wasteland.001|Icosphere.003|Dupli|95.0
+    3301516: Wasteland.001|Icosphere.003|Dupli|96.0
+    3301518: Wasteland.001|Icosphere.003|Dupli|97.0
+    3301520: Wasteland.001|Icosphere.003|Dupli|98.0
+    3301522: Wasteland.001|Icosphere.003|Dupli|99.0
+    4300000: Icosphere.205
+    4300002: Cylinder.175
+    4300004: Wasteland.001
+    4300006: Icosphere.002
+    4300008: Icosphere.001
+    4300010: Icosphere.000
+    4300012: Icosphere.005
+    4300014: Icosphere.006
+    4300016: Snow land.001
+    4300018: Wasteland
+    4300020: Desert LandScape
+    4300022: Snow land
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

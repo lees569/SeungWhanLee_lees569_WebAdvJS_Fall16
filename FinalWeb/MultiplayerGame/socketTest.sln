@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{679E6C45-7FE0-D46E-FC56-E18923DB990D}") = "socketTest", "Assembly-CSharp.csproj", "{E5939A25-FBB6-7C76-3547-79B04CAE4BEB}"
+EndProject
+Project("{679E6C45-7FE0-D46E-FC56-E18923DB990D}") = "socketTest", "Assembly-CSharp-Editor.csproj", "{77B36BDA-BB6F-FCF8-96C6-C49A63D1AC5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5939A25-FBB6-7C76-3547-79B04CAE4BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5939A25-FBB6-7C76-3547-79B04CAE4BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5939A25-FBB6-7C76-3547-79B04CAE4BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5939A25-FBB6-7C76-3547-79B04CAE4BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77B36BDA-BB6F-FCF8-96C6-C49A63D1AC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B36BDA-BB6F-FCF8-96C6-C49A63D1AC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B36BDA-BB6F-FCF8-96C6-C49A63D1AC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B36BDA-BB6F-FCF8-96C6-C49A63D1AC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
